@@ -1,0 +1,12 @@
+Name,Agency,Age,Gender,Race,Charges,Raw file
+Robert Lee Beckwood,Crittenden County Sheriff's Office,37,Male,Black,['FAILURE TO PAY FINE/COST-WARRANT'],raw_output_2.csv
+STEPHEN ANTHONY CAMPBELL SR.,Independence County Sheriff's Office,40,Male,White,['CONTEMPT OF COURT: FAILURE TO PAY'],raw_output_2.csv
+JOHNNY RAY BAGWELL,Independence County Sheriff's Office,51,Male,White,['CONTEMPT OF COURT: FAILURE TO PAY'],raw_output_1.csv
+NICHOLAS CAPO,Logan County Sheriff's Office,39,Male,White,['FAIL TO PAY'],raw_output_1.csv
+Preston Wayne Funderburg,Crittenden County Sheriff's Office,50,Male,White,['FAILURE TO PAY FINE/COST-WARRANT'],raw_output_1.csv
+ERNIE HAUGHT,Marion County Sheriff's Office,40,Male,White,['FAILURE TO PAY FINES MISDEMEANOR'],raw_output_1.csv
+MANDY LEE JOHNSON, Logan County Sheriff's Office ,44,Female,White,['FAIL TO PAY'],raw_output_1.csv
+Ross Perry, White County Sheriff's Office ,25,Male,Black,['Fail to Pay Fine'],raw_output_1.csv
+CHRISTOPHER LYN SALMON, Independence County Sheriff's Office ,30,Male,White,['CONTEMPT OF COURT: FAILURE TO PAY'],raw_output_1.csv
+CHRISTOPHER LYN SALMON, Independence County Sheriff's Office ,30,Male,White,['CONTEMPT OF COURT: FAILURE TO PAY'],raw_output_1.csv
+EARNEST STEVENS, Lafayette County Sheriff's Office ,62,Male,Black,['FAILURE TO PAY FINES AND COSTS'],raw_output_1.csv

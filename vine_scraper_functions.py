@@ -270,11 +270,3 @@ def scrape_page(url, driver_path, output_path, ignore_names):
 				writer.writerow([name] + data_dict[name])
 
 			f.close()
-
-
-
-
-
-
-
-

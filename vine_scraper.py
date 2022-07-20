@@ -105,7 +105,3 @@ for ltr_combo in urls.keys():
 	print('Getting data for lastnames starting with: ' + ltr_combo)
 	
 	scrape_page(urls[ltr_combo], driver_path, out_file_path, ignore_names)
-
-	
-
-
