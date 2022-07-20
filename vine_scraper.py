@@ -14,7 +14,7 @@ out_path = "./outputs/raw"
 
 file_basename = "raw_output_"
 
-headers = ["Name", "Agency", "Age", "Gender", "Race"]
+headers = ["Name", "Agency", "Age", "Gender", "Race", "Charges"]
 
 # Get last created raw output file
 latest_file_num = 0
@@ -24,6 +24,15 @@ for file in raw_files:
 	file_num = int(str(file).replace(".csv","").replace(file_basename, ""))
 	if file_num > latest_file_num:
 		latest_file_num = file_num
+
+# Get names to ignore
+ignore_names = []
+for raw_file in raw_files:
+	with open(os.path.join(out_path,raw_file), "r") as file:
+		reader = csv.reader(file)
+		next(reader)
+		for row in reader:
+			ignore_names.append(row[0])
 
 latest_file = ""
 if latest_file_num > 0 :
@@ -94,26 +103,6 @@ print("Getting info for people with lastnames from " + start_combo + " to " + en
 for ltr_combo in urls.keys(): 
 
 	print('Getting data for lastnames starting with: ' + ltr_combo)
-
-	ignore_names = []
-	for raw_file in raw_files:
-		with open(os.path.join(out_path,raw_file), "r") as file:
-			reader = csv.reader(file)
-			next(reader)
-			for row in reader: 
-				lastname = ""
-				name = row[0]
-				name_list = name.split(" ")
-				if len(name_list) > 2:
-					# Has name suffix 
-					if name_list[-1].lower().replace(".", "") in name_suffix:
-						lastname = name_list[-2]
-					else: 
-						lastname = name_list[-1]
-				elif len(name_list) == 2: 
-					lastname = name_list[1]
-				if lastname[:2].lower() == ltr_combo:
-					ignore_names.append(name)
 	
 	scrape_page(urls[ltr_combo], driver_path, out_file_path, ignore_names)
 

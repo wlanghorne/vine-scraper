@@ -1,1 +1,874 @@
-Name,Agency,Age,Gender,Race
+Name,Agency,Age,Gender,Race,Charges
+CHRISTINA MARIE LAMBERT,Garland County Sheriff's Department,41,Female,White,"['POSSESSION OF A CONTROLLED SUBSTANCE', 'POSSESSION OF DRUG PARAPHERNALIA ( 2 COU', 'FAILURE TO APPEAR']"
+SANA NADIYAH ABDULLAH,Pulaski County Sheriff's Office,44,Female,Black,"['DISORDERLY CONDUCT', 'OBSTRUCTING GOVERNMENTAL OPERATION/CLASS C', 'POSS DRUG PARAPHERNALIA', 'REFUSAL TO SUBMIT TO ARREST', 'TAMPERING WITH PHYSICAL EVIDENCE / DESTROY']"
+STEVEN RAY DELGADILLO,Saline County Sheriff's Office,50,Male,White,"['FAILURE TO APPEAR (FOR FELONY OFFENSE) - FELONY', 'FAILURE TO APPEAR (FOR MISDEMEANOR OFFENSE) - MISDEMEANOR', 'FAILURE TO APPEAR (FOR MISDEMEANOR OFFENSE) - MISDEMEANOR', 'FAILURE TO APPEAR (FOR MISDEMEANOR OFFENSE) - MISDEMEANOR']"
+GORGE ALBERTO ACOSTA,Pope County Sheriff's Office,31,Male,White,"['FLEEING', 'OBSTRUCTING GOVERNMENTAL OPERATIONS', 'PAROLE VIOLATION', 'FAIL TO APPEAR']"
+Brandy Denise Adams,Craighead County Sheriff's Office,45,Female,White,['POSSESSION OF METH OR COCAINE LT 2GM']
+ALLEN ELADIN ADAMS JR,Scott County Sheriff,40,Male,White,[]
+Richard Alan Adams,Cleburne County Sheriff's Office,38,Male,White,['PROBATION REVOCATION']
+RONALD ADAMS,Fulton County Sheriffs Office,31,Male,White,['ABSCONDING / LEAVING THE AREA OF A HOUSE']
+DAVID MICHAEL ADAIR,Lonoke County Sheriff's Office,31,Male,White,['FAILURE TO APPEAR F UCR 90Z']
+CHRISTOPHER RUSSELL ADE,Independence County Sheriff's Office,65,Male,White,['RAPE']
+ADAM WADE PINKSTON,Izard County Sheriffs Office,49,Male,White,['FAILURE TO APPEAR']
+ERNEST AVANCE,Pulaski County Sheriff's Office,52,Male,Black,"['OBSTRUCTING GOVERNMENTAL OPERATION/CLASS C', 'POSSESSING INSTRUMENTS OF CRIME']"
+TERRA FAITH SMITH,Benton County Sheriff's Office,43,Female,White,"['FAILURE TO APPEAR', 'FAIL TO APPEAR ON FELONY']"
+JESSICA DAWN MASON,Pulaski County Sheriff's Office,41,Female,White,"['AGGRAVATED ASSAULT', 'CRIMINAL MISCHIEF 1ST DEGREE-DAMAGES FOR COLLECTING INSURANCE $1,000 OR LESS', 'CRIMINAL MISCHIEF 1ST DEGREE- PURPOSELY DAMAGES LT $1,000']"
+Natasha Lynn Ahmed,Sebastian County Sheriff's Department,33,Female,White,"['Contempt-willful disobedience (Failure to Pay Fine)*', 'Contempt-Failure to Comply w/ Court A Misd**']"
+ASHLEY LYNN MARNEY,Crawford County Sheriff’s Department,28,Female,White,[]
+HENRY ARECE AKINS JR,Pulaski County Sheriff's Office,27,Male,Black,['DOMESTIC BATTERING - 3RD DEG']
+FLOYD ALLEN JR,Jefferson County Sheriff's Office,28,Male,Black,['Domestic Battering III']
+GARY WILLIAM ALFORD,Cross County Sheriff's Office,41,Male,White,['DISORDERLY CONDUCT']
+Timothy Dale Allen,Craighead County Sheriff's Office,38,Male,White,"['PAROLE VIOLATION', 'POSSESSION OF DRUG PARAPHERNALIA (FELONY)']"
+HARRY DON ALMOND,Crawford County Sheriff’s Department,69,Male,White,['PUBLIC SEXUAL INDECENCY']
+Leslie Dewayne Alexander,Craighead County Sheriff's Office,45,Male,Black,['AGGRAVATED ASSAULT ON A FAMILY OR HOUSEHOLD MEMBER']
+Sarah Allison,White County Sheriff's Office,31,Female,White,"['FAILURE TO APPEAR', 'OUT OF TOWN WARRANT/ASSIST']"
+JULIE NICOLE ALLEN,Lawrence County Sheriff's Office,36,Female,White,['REVOCATION OF PROBATION']
+KEYUNTA JAMIUS ALDRIDGE,Mississippi County Sheriff's Office,21,Male,Black,"['COMMITMENT', 'FAILURE TO APPEAR 2']"
+JERRY ALLRED,Poinsett County Sheriff's Office,46,Male,White,['RPF']
+JENNIFER ELIZABETH NICOLE ALEXANDER,Clark County Sheriff's Department,28,Female,White,['FAILURE TO APPEAR 5-54-120 F C']
+Timothy Ray Allen,Sebastian County Sheriff's Department,41,Male,Unknown,"['Failure to Appear - Class B Misdemeanor*', 'Contempt-Failure to Comply w/ Court A Misd**', 'Contempt-willful disobedience (Failure to Pay Fine)*']"
+Shannon Hershel Allen,White County Sheriff's Office,44,Male,White,"['FAILURE TO APPEAR', 'PROBATION VIOLATION', 'ABSCONDING']"
+ARKEL DAVIN UNTAYE ALLEN,Pulaski County Sheriff's Office,22,Male,Black,"['DRIVING WHILE LICENSE CANCELLED, SUSPENDED OR REVOKED', 'FLEEING', 'POSS CONT SUB SCH 6, LT 4 OZ']"
+QUINTTON J ALLEN,Benton County Sheriff's Office,31,Male,Black,"['THEFT OF PROPERTY', 'TERRORISTIC THREATENING - 1ST DEGREE / THREATENS PHYSICAL INJURY OR PROPERTY DAMAGE', 'AGGRAVATED ROBBERY']"
+CHASE ALFORD,Jefferson County Sheriff's Office,39,Female,White,['Hold for another agency']
+ANTWONE KESEAN ALFORD,Pulaski County Sheriff's Office,23,Male,Black,['MURDER - 2ND DEGREE EXTREME INDIFFERENCE']
+SAMUEL CLARENCE ALBURTIS,Carroll County Sheriff's Office,32,Male,White,"['FAILURE TO APPEARMISD', 'FAILURE TO APPEARMISD', 'FAILURE TO APPEARMISD', 'POSSESSION DRUG PARA MISD', 'TERRORISTIC THREATENINGFELONY1ST DEG', 'CARRYING PROHIBITED WEAPON', 'BATTERY IN THE SECOND DEGREE', 'POSSESSION', 'POSSESSION', 'FAILURE TO APPEARMISD', 'FAILURE TO APPEARMISD']"
+DAN AMON,Benton County Sheriff's Office,28,Male,Asian / Pacific Islander,['VIOL OF OMNIBUS DWI ACT - 1ST OFFENSE']
+DEMARIUS AMMONS,Ashley County Sheriff's Office,28,Male,White,[]
+TERESA LYNN SHOCKLEY,Benton County Sheriff's Office,53,Female,White,"['FAILURE TO APPEAR', 'CRIMINAL CONTEMPT']"
+DARREN DEVONTA ANDREWS,Sebastian County Sheriff's Department,28,Male,Black,"['Possession of Controlled Substance - Schedule I/II Felony &lt;2g*', 'Possession of Drug Paraphernalia - Ingest Meth/Cocaine*', 'Parole Violation*']"
+TIMOTHY LEE ANDERSON,Crawford County Sheriff’s Department,51,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+TIFFANY C ANDERSON,Pulaski County Sheriff's Office,37,Female,White,"['FAILURE TO COMPLY', 'POSS CONT SUBS METH/COCA 2G OR MORE BUT LT 10G']"
+JORDAN TYLOR ANDERSON,Carroll County Sheriff's Office,32,Male,White,"['POSSESSION OF DRUG PARAFELONY', 'POSSESSION INSTRUMENT OF CRIME', 'POSSESSION OF A CONTROLED SUB', 'POSSESSION DRUG PARA MISD', 'CONTEMPT OF COURT', 'FAILURE TO APPEARMISD']"
+WILFER ANIEN,Carroll County Sheriff's Office,33,Male,White,"['FAILURE TO COMPLY WITH TERMS PROBATION', 'FAILURE TO APPEARMISD', 'FAILURE TO APPEARMISD', 'BOND SURRENDER']"
+ANGEL MANUEL ROMERO,Benton County Sheriff's Office,40,Male,Black,['DOMESTIC BATTERING - 3RD DEG (CLASS D FELONY)']
+ANA PAREDES,Prairie County Sheriff's Office,31,Female,White,['HOLD FOR ANOTHER DEPT A UCR']
+VICTOR MONTELL HARMON,Pulaski County Sheriff's Office,55,Male,Black,[]
+GREGORY DOCKERY,Pulaski County Sheriff's Office,65,Male,Black,"['POSS CONT SUB SCH 6, LT 4 OZ', 'POSS DRUG PARAPHERNALIA', 'RAPE']"
+AMBER LEIGH CHILDS,Garland County Sheriff's Department,49,Female,White,['COMMUNICATING FALSE ALARM']
+KYLYN ARNETT,Faulkner County Sheriff's Office,21,Male,Black,"['--AF BREAKING OR ENTERING-FROM A VEHICLE', '-- THEFT OF PROPERTY', '-- CRIMINAL MISCHIEF ST OVER -']"
+SHANNON D ARCHER,Faulkner County Sheriff's Office,40,Female,White,"['---M FAIL TO APPEAR-MISD', '---M FAIL TO APPEAR-MISD']"
+DAMIAN JAMAAZ ARNAUD,Sebastian County Sheriff's Department,25,Male,Black,"['Theft by Receiving &gt;$1k*', 'Possession of [Schedule VI Controlled Substance] with the Purpose to Deliver &lt;14g*', 'Fleeing -On Foot-Misd*', 'Possession of Drug Paraphernalia - Ingest*', 'Contempt-willful disobedience (Failure to Pay Fine)*', 'Petition to Revoke - Felony *']"
+RYAN LEE ARCHER N/A,Crawford County Sheriff’s Department,44,Male,White,"['CRIMINAL MISCHIEF IN THE FIRST DEGREE', 'DELIVERY OF METH OR COCAINE', 'BREAKING OR ENTERING', 'THEFT OF PROPERTY', 'BREAKING OR ENTERING', 'CRIMINAL MISCHIEF IN THE FIRST DEGREE', 'POSSESSING INSTRUMENT OF CRIME', 'POSSESSION OF ACONTROLLED SUBSTANCE', 'POSSESSION OF ACONTROLLED SUBSTANCE', 'THEFT OF PROPERTY']"
+ZSAKHIELL ARMON HARRIS KELLY,Pulaski County Sheriff's Office,30,Male,Black,"['CRIMINAL IMPERSONATION - 2ND DEGREE', 'CRIMINAL MISCHIEF 1ST DEGREE- PURPOSELY DAMAGES LT $1,000', 'CRIMINAL MISCHIEF - 2ND DEGREE/CLASS D', 'FLEEING', 'FLEEING - FELONY -VEHICLE OR CONVEYANCE- SERIOUS PHYSICAL INJURY', 'FLIGHT-ESCAPE (FLEEING ON FOOT)', 'POSSESSION OF FIREARM BY CERTAIN PERSONS', 'RECKLESS DRIVING', 'SPEEDING MORE THAN 15 MPH OVER LIMIT', 'TAMPERING WITH PHYSICAL EVIDENCE / DESTROY', 'THEFT OF PROPERTY', 'VIOL OF OMNIBUS DWI ACT - 1ST OFFENSE']"
+KATY LYNN HANCOCK,Sebastian County Sheriff's Department,33,Female,White,"['Parole Violation*', 'Absconding *', 'Failure to Appear - Class C Felony*', 'ADC Commitment Hold']"
+JAMES DAVID ASHLEY,Garland County Sheriff's Department,40,Male,White,['FAILURE TO APPEAR']
+LAURA ANN ASHER,Lawrence County Sheriff's Office,31,Female,White,['REVOCATION OF PROBATION']
+ROSS TILLMAN ASHFORD,Stone County Sheriff's Office,38,Male,White,"['FAILURE TO APPEAR ON FELONY F UCR 90', 'HOLD FOR OTHER COUNTY']"
+JAMES CLAY ATKINS,Grant County Sheriff's Office,35,Male,White,['Filing false report law enforcement agen']
+TOWANDA LEE ATKINSON-DORBIN,Pulaski County Sheriff's Office,46,Female,Black,"['BREAKING OR ENTERING', 'CRIMINAL MISCHIEF 1ST DEGREE- PURPOSELY DAMAGES LT $1,000', 'MISDEMEANOR COMMITMENT TO PCRDF']"
+Michael Rex Atteberry,Franklin County Sheriff's Office,51,Male,White,['PAROLE VIOLATION']
+MARLO AKINS,Pulaski County Sheriff's Office,33,Male,Black,"['AGGRAVATED ASSAULT', 'AGGRAVATED ASSAULT ON CORRECTIONAL FACILITY EMPLOYEE', 'FLEEING', 'FLEEING - FELONY -VEHICLE OR CONVEYANCE- SERIOUS PHYSICAL INJURY', 'POSSESSION OF FIREARM BY CERTAIN PERSONS', 'TERRORISTIC ACT', 'UNLAWFUL DISCHARGE OF A FIREARM IN VEHICLE 2ND DEG']"
+JAMES LEE AUSTIN,Jefferson County Sheriff's Office,39,Male,Black,['Domestic Battering III']
+KILLIE NICOLE BROWN,Benton County Sheriff's Office,33,Female,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+SANDY LEE GARCIA,Benton County Sheriff's Office,48,Female,White,['CONTEMPT OF COURT FOR FAILURE TO COMPLY WITH COURT ORDER FTC']
+AVERILL NMN JAMES Sr,Sebastian County Sheriff's Department,41,Male,Black,"['Failure to Appear - Class A Misdemeanor*', 'Failure to Appear - Class C Felony*', 'Contempt-willful disobedience (Failure to Pay Fine)*', 'ADC Commitment Hold']"
+JAMIE BASS,Poinsett County Sheriff's Office,46,Female,White,['ALIAS BENCH WARRANT']
+Jazmin Shanis Barris,Sebastian County Sheriff's Department,30,Female,Black,"['PETITION TO REVOKE - MISD*', 'Contempt-willful disobedience (Failure to Pay Fine)*']"
+Lewis Ballard,Crittenden County Sheriff's Office,36,Male,Black,"['THEFT $1,000 OR LESS - ALL OTHERS', 'DISORDERLY CONDUCT']"
+STEPHEN JOSH BAUGHMAN,Pope County Sheriff's Office,42,Male,White,['ACT 309']
+Lonnie Lee Baker,White County Sheriff's Office,27,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+ELMER WAYNE BAILEY,Sharp County Sheriff's Office,51,Male,White,"['Possession of Sched. VI LT 4OZ (1356 (A)', 'Possession of Drug Paraphernalia Meth/Co', 'No Insurance', 'No Tag Lights']"
+NANCY NICOLE BAILEY,Crawford County Sheriff’s Department,38,Female,White,['FAILURE TO APPEAR']
+LOUIS STEVEN BAILEY,Nevada County Sheriff's Office,60,Male,White,"['DRIVING ON SUSPENDED -SR-22', 'OPEN CONTAINER ALCOHOL', 'POSS SCHEDULE VI (MARIJUANA) &lt;4 OUNCES', 'POSS METH &lt; 2 GRAMS CLASS D FELONY']"
+PAIGE BRITTANY BARR,Logan County Sheriff's Office,23,Female,White,"['THEFT OF PROPERTY', 'BREAKING OR ENTERING']"
+Joshua Vernon Bateman,Franklin County Sheriff's Office,30,Male,White,"['RAPE / SEXUAL INTERCOURSE / DEVIATE ACTIVITY', 'KNOWINGLY FURNISHING OR SELLING TO A MINOR', 'BATTERY - 3RD DEGREE / PURPOSE OF CAUSING INJURY, CAUSES INJURY', ""INTRODUCING A CONTROLLED SUBSTANCE INTO ANOTHER'S BODY I-III"", 'CONTRIBUTING TO THE DELINQUENCY OF A MINOR', 'ENDANGER WELFARE OF MINOR- 2ND DEGREE']"
+Robert Balderrama,White County Sheriff's Office,48,Male,White,"['FAILURE TO APPEAR', 'CONTEMPT OF COURT/FAIL TO COMPLY WITH COURT ORDER']"
+PAUL STANLEY BARNES JR,Pulaski County Sheriff's Office,39,Male,Black,"['POSS CONT SUBS METH/COCA W/INTENT LT 2G', 'POSSESS DRUG PARAPHERNALIA METH COCAINE', 'POSSESS SCH 6 W/INTENT GT 14G BUT LT 4OZ', 'RESISTING OFFICER', 'TRAFFICKING CONTROLLED SUBSTANCE']"
+JOSHUA DALE BARROW,Faulkner County Sheriff's Office,33,Male,White,"['---M FAIL TO APPEAR-MISD', '---M FAIL TO APPEAR-MISD', '---M FAIL TO APPEAR-MISD', '---M FAIL TO APPEAR-MISD']"
+MELISSA ANN BARBEE,Prairie County Sheriff's Office,48,Female,White,"['POSSESSION OF DRUG PARAPHERNALIA', 'FAILURE TO PAY FINE AND COST', 'FAILURE TO APPEAR']"
+Deursla Lashay Barron,Craighead County Sheriff's Office,37,Female,Black,"['POSSESSION OF DRUG PARAPHERNALIA (FELONY)', 'PAROLE VIOLATION']"
+RACHEL MICHELLE BARBER,Mississippi County Sheriff's Office,38,Female,White,['CRIMINAL TRESPASS ON LAND']
+Montana Travis Bagley,White County Sheriff's Office,26,Male,White,['Commitment']
+CORY JAMES BATCHELOR,Pulaski County Sheriff's Office,38,Male,White,[]
+KENNY WAYNE BARNES,Garland County Sheriff's Department,42,Male,Black,"['THEFT OF PROPERTY', 'UNALWFUL TRANSFER OF STOLEN PROPERTY TO', 'FAILURE TO APPEAR', 'RESIDENTIAL BURGLARY', 'PAROLE HOLD']"
+OTHELL BASS,Cross County Sheriff's Office,38,Male,Black,['FAILURE TO COMPLY WITH REGISTRATION AND']
+CHRISTOPHER L BAREFIELD,Greene County Sheriff's Office,30,Male,Black,['HOLD FOR FEDERAL COURT / U.S. MARSHALS']
+TRAVIS EUGENE BARBEE,Benton County Sheriff's Office,37,Male,White,"['CRIMINAL CONTEMPT', 'FAILURE TO APPEAR', 'POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'POSSESSION OF A CONTROLLED SUBSTANCE (PCS)', 'POSS DRUG PARAPHERNALIA PDP M', 'INSURANCE REQUIRED (NO PROOF OF INSURANCE)', 'DRIVING VEHICLE WITH LICENSE OR REGISTRATION SUSPENDED OR REVOKED', 'INSURANCE REQUIRED (NO PROOF OF INSURANCE)']"
+WESLEY BARRINGER,Arkansas County Sheriff's Office,43,Male,Unknown,"['72 Hour Investgation Hold', 'Failure to appear', 'POSSECION OF CONTROLED SUBSTANCE/ SCHEDU', 'Failure to appear', 'Failure to appear', 'Failure to appear', 'Failure to appear', 'Failure to appear', 'Failure to appear', 'Failure to appear']"
+Carl Edward Barnes,Crittenden County Sheriff's Office,50,Male,White,"['FAILURE TO APPEAR-WARRANT', 'DEFECTIVE EQUIPMENT', 'DRIVING WHILE LICENSE CANCELLED,SUSPENDED,OR REVOKED NON DWI', 'HOLD FOR ANOTHER AGENCY']"
+DUSTIN L BALLEW,Pulaski County Sheriff's Office,33,Male,White,"['AGGRAVATED ROBBERY', 'THEFT OF PROPERTY OBTAINED BY THREAT OF SERIOUS PHYSICAL INJURY']"
+TERREZ D BATCH,Pulaski County Sheriff's Office,46,Male,Black,[]
+BARBARA LEANN BATY,Faulkner County Sheriff's Office,52,Female,White,"['-- POSS OF METH OR COC W PURP TO DEL', '-- THEFT OF PROPERTY']"
+Mario Baires Rivas,White County Sheriff's Office,41,Male,Unknown,['Commitment']
+Lacey Brooke Baker,Crittenden County Sheriff's Office,28,Female,White,"['POSSESSION OF METH OR COCAINE LT 2GM', 'POSS. OF DRUG PARAPHERNALIA - FELONY', 'RESIDENTIAL BURGLARY-WARRANT', 'POSSESSION OF SCH I OR II LT 2GM', 'POSS. OF DRUG PARAPHERNALIA - FELONY', 'POSS. OF A CONTROLLED SUBSTANCE - FELONY', 'Possession of fentanyl - Possession of fentanyl with the purpose to deliver - Delivery of fentanyl -', 'THEFT BY RECEIVING - CREDIT/DEBIT CARDS OR ACCOUNT NUMBER']"
+ROGERS LEE BARRETT,Saline County Sheriff's Office,64,Male,White,"['POSSESSION OF A CONTROLLED SUBSTANCE SCH I,II - FELONY', 'POSSESSION OF DRUG PARAPHERNALIA - MISDEMEANOR', 'POSSESSION OF A CONTROLLED SUBSTANCE SCH 6 MARIJUANA', 'DRIVERS LICENSE SUSPENDED', 'NO PROOF OF INSURANCE (FIRST OR SECOND OFFENSE) - CLASS U - V']"
+KATLYN M BASHAM,Pulaski County Sheriff's Office,22,Female,White,[]
+AMANDA ELIZABETH BAKER,Sebastian County Sheriff's Department,33,Female,White,"['Obstructing Governmental Operations-Impair-Force*', 'Possession of Controlled Substance - Schedule I/II Felony &lt;2g*', 'Possession Drug Paraphernalia - Felony']"
+TABITHA JOANNA CLEVELAND,Benton County Sheriff's Office,61,Female,White,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'REVOCATION OF PROBATION/PAROLE']"
+JULIAN BECERRA III,Crawford County Sheriff’s Department,18,Male,Unknown,"['FLEEING', 'CRIMINAL TRESPASS IN OR ON A VEHICLE OR STRUCTURE', 'VEHICLES TO BE DRIVEN ON RIGHT SIDE OF ROADWAY', 'DRIVING WHILE LICENSE CANCELLED, SUSPENDED, OR REVOKED', 'FLEEING', 'RECKLESS DRIVING', 'PROPERTY DAMAGE', 'AGGRAVATED ASSAULT', 'AGGRAVATED ASSAULT UPON A CERTIFIED LAW ENFORCEMENT OR CORRECTIONAL OFFICER', 'CRIMINAL MISCHIEF IN THE FIRST DEGREE', 'CRIMINAL MISCHIEF IN THE SECOND DEGREE', 'LIMITATIONS GENERALLY']"
+SHELTON DONELLE BAKER,Pulaski County Sheriff's Office,27,Male,Black,"['POSS CONT SUB SCH 6, LT 4 OZ', 'POSS CONT SUBS SCH 1,2 NOT METH/COCA LT 2G']"
+DESTINEY NASHAE BESS,Pulaski County Sheriff's Office,23,Female,Black,[]
+RALPH BEASLEY,Miller County Sheriff's Office,49,Male,White,"['DISORDERLY CONDUCT', 'OBSTRUCTION OF GOV. OPERATION']"
+JUSTIN D BELL,Independence County Sheriff's Office,39,Male,White,['FAIL TO APPEAR ON CLASS A MISDEMEANOR (FTA)']
+PHILLIP RAY JOSEPH BENEUX,Crawford County Sheriff’s Department,27,Male,White,['FAILURE TO APPEAR']
+ALEXUS BEAL,Mississippi County Sheriff's Office,22,Female,Black,['HERE TO SERVE WEEKENDS']
+CLIFFORD WAYNE BEATTY,Carroll County Sheriff's Office,52,Male,White,['AGGRAVATED ASSAULT ON A FAMHOUSEHOLD ME']
+LISA ANN BELL,Marion County Sheriff's Office,52,Female,White,"['FAILURE TO APPEAR MISDEMEANOR', 'ABSCONDING']"
+Ephrain Manuel Berlanga-Calvillo,Newton County Sheriff's Office,59,Male,Unknown,"['HOLD FOR MADISON COUNTY (FELONY)', 'HOLD FOR MADISON COUNTY (MISDEMEANOR)']"
+JILLY BETWEL,Benton County Sheriff's Office,32,Male,Asian / Pacific Islander,"['FAIL TO APPEAR ON CLASS A MISDEMEANOR (FTA)', 'FAIL TO APPEAR ON FELONY', 'FAIL TO APPEAR ON CLASS A MISDEMEANOR (FTA)']"
+STEVEN CALVIN BERCHER,Lafayette County Sheriff's Office,27,Male,White,"['AGGRAVATED ASSAULT', 'VIOLATION OF A PROTECTION ORDER']"
+Robert Lee Beckwood,Crittenden County Sheriff's Office,37,Male,Black,['FAILURE TO PAY FINE/COST-WARRANT']
+KEAUNDRA DENISE BEAL,Columbia County Sheriff's Office,31,Female,Black,['TERRORISTIC THREATENING']
+ANGELIQUE NICOLE BENSON,Sebastian County Sheriff's Department,30,Female,White,"['Petition to Revoke - Felony *', 'Contempt-willful disobedience (Failure to Pay Fine)*']"
+DUSTIN W BEATTY,Mississippi County Sheriff's Office,31,Male,White,['DOMESTIC BATTERY 3RD DEGREE']
+GLORIA SAMANTHA BEASLEY,Columbia County Sheriff's Office,35,Female,White,"['FAILURE TO APPEAR GENERAL', 'FAILURE TO APPEAR FEL']"
+KYLE ANTHONY BENSON,Pulaski County Sheriff's Office,34,Male,White,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'POSSESS DRUG PARAPHERNALIA METH COCAINE']"
+Johnathon Demon Benney,White County Sheriff's Office,35,Male,Black,['PROBATION VIOLATION']
+KATIE NICOLE BEASLEY,Miller County Sheriff's Office,30,Female,White,['PET FOR REVOCATION']
+JAMES WILLIAM BIBY,Sharp County Sheriff's Office,43,Male,White,['Contempt Of Court']
+Andrew Lee Bishop,Craighead County Sheriff's Office,34,Male,White,"['Failure to Appear (Misd.)', 'POSSESSION OF SCH VI LT 4OZ']"
+JOHN HENRY BINNS,Pulaski County Sheriff's Office,39,Male,White,"['AGGRAVATED ASSAULT', 'ROBBERY']"
+BRITTANY BILLINGS,Jefferson County Sheriff's Office,33,Female,White,"['Possession of firearms by certain person', 'POSSESS CONTROLLED SUBSTANCE', 'POSS DRUG PARAPHERNALIA']"
+Tyler Ray Bibiano,Sebastian County Sheriff's Department,23,Male,White,"['Contempt-willful disobedience (Failure to Pay Fine)*', 'Possession of Controlled Substance - Schedule I/II Felony &lt;2g*', 'Possession of Drug Paraphernalia - Ingest Meth/Cocaine*', 'Furnishing a Prohibited Article-Correctional Facility*']"
+ANTHONY BIDDLE,Miller County Sheriff's Office,25,Male,Black,"['AGGRAVATED ASSAULT', 'CRIMINAL MISCHIEF 1ST DAMAGE GT 5K LT 25K', 'BATTERY 2ND', 'TERRORISTIC ACT']"
+ROBERT BIRMINGHAM,Ouachita County Sheriff's Office,45,Male,White,['ADC INMATE']
+CHAD RANDALL BIVENS,Pulaski County Sheriff's Office,38,Male,White,[]
+TROY ALLEN BIRKES,Carroll County Sheriff's Office,47,Male,White,"['THEFT BY REC', 'FAILURE TO APPEAR FEL', 'COMMERCIAL BURGLARY', 'THEFT', 'HOLD FOR OTHER AGENCY', 'HOLD FOR OTHER AGENCY', 'HOLD FOR OTHER AGENCY']"
+Oscar Robert Block,Crittenden County Sheriff's Office,31,Male,White,"['FUGITIVE FROM JUSTICE', 'LOITERING']"
+JUSTIN BLODGETT,Faulkner County Sheriff's Office,41,Male,White,['FCSO SENTENCED TO FCSO THIS DATE']
+James Marion Bloomfield,Cleburne County Sheriff's Office,38,Male,White,['Sentenced to Jail Time by Judge']
+CHRISTIAN BLACKMORE,Benton County Sheriff's Office,28,Male,White,"['FORGERY - 1ST DEGREE', 'THEFT OF PROPERTY', 'FAIL TO APPEAR ON CLASS B MISDEMEANOR (FTA)']"
+KEBRECUS BLAKELY,Clark County Sheriff's Department,30,Male,Black,"['DRIVING ON SUSPENDED', 'POSSESSION OF FIREARMS BY CERTAIN PERSON', 'Possession of a Schedule VI Controlled S', 'DRUG PARAPHERNALIA', 'DRIVING ON SUSPENDED']"
+STEFFANIE CHRISTINE BLUM,Benton County Sheriff's Office,32,Female,White,['REVOCATION OF PROBATION/PAROLE']
+DONIAN JARRETT,Pulaski County Sheriff's Office,21,Male,Black,"['LOITERING', 'POSSESSION OF FIREARM BY CERTAIN PERSONS']"
+DAVID MICHAEL ROLLINS,Crawford County Sheriff’s Department,27,Male,White,"['BURGLARY', 'THEFT OF PROPERTY']"
+PEGGY BLACKWELL LEE,Pulaski County Sheriff's Office,44,Female,Black,"['BATTERY - 2ND DEGREE - CERTAIN VICTIMS', 'BATTERY 2ND DEGREE SERIOUSNESS LEVEL 4', 'FAILURE TO APPEAR']"
+JEREMY BOLLS,Nevada County Sheriff's Office,43,Male,White,['HOLD FOR INVESTIGATION']
+MARGARET ANN BOLES,Pulaski County Sheriff's Office,52,Female,Black,[]
+Marcus D Boyd,Crittenden County Sheriff's Office,45,Male,Black,"['DRIVING WHILE LICENSE CANCELLED,SUSPENDED,OR REVOKED NON DWI', 'SEAT BELT USE REQUIRED', 'POSS. OF A SCHEDULE I/ II SUBSTANCE THAT IS NOT METH. OR COCAINE WITH THE PURPOSE TO DELIVER', 'POSSESSION OF METH OR COCAINE PURPOSE TO DELIVER LT 2GM', 'POSS. OF A SCHED. IV OR SCHED. V CONTROL SUB. WITH THE PURPOSE TO DELIVER', 'POSS. OF METHAMPHETAMINE OR COCAINE WITH THE PURPOSE TO DELIVER']"
+Gregory Bornhoft,White County Sheriff's Office,43,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+JAMES HENRY BOWIE,Faulkner County Sheriff's Office,33,Male,White,"['---M FAIL TO APPEAR-MISD', '---M FAIL TO APPEAR-MISD', '-- CRIMINAL MISCHIEF ST OVER -', '--B DOMESTIC BATTERING III SUBQ OFFENSE']"
+DAVID TERRY BOWIE,Faulkner County Sheriff's Office,56,Male,White,"['--A THEFT OF SERVICES', '-- POSSESSION OF CONTROLLED SUBSTANCE', '-- POSS DRUG PARAPHERNALIA']"
+ANDREW BLAIZE BOWIE,Faulkner County Sheriff's Office,19,Male,White,"['---M FAIL TO APPEAR-MISD', '-- BREAKING OR ENTERING TO STEAL CONTROLLED', '-- THEFT OF PROPERTY']"
+JAYLEN BOWMAN,Pulaski County Sheriff's Office,23,Male,Black,['DOMESTIC BATTERING - 3RD DEG']
+HEATHER BOTTENFIELD,Mississippi County Sheriff's Office,36,Female,White,[]
+Jonathan Evan Boyd,Newton County Sheriff's Office,28,Male,Unknown,['HOLD FOR MADISON COUNTY (FELONY)']
+Michael Shawn Bowers,Craighead County Sheriff's Office,32,Male,White,"['ASSAULT ON FAMILY OR HOUSEHOLD MEMBER - 3RD DEGREE / APPREHENSION OF IMMINE', 'PAROLE VIOLATION', 'INATTENTIVE DRIVING']"
+SAVANNAH LOUISE BOBO,Baxter County Sheriff's Office,36,Female,White,['REVOCATION BENCH WARRANT']
+RICHARD ALTON BOGAN,Osceola Police Department,31,Male,Black,"['DRIVING ON SUSPENDEDREVOKED LICENSE M', 'REFUSAL TO SUBMIT TO CHEMICAL TEST M', 'OBSTRUCTING GOVERMENTAL OPERATIONS M']"
+JAMES ALAN BOREN,Pope County Sheriff's Office,29,Male,White,"['FAILURE TO COMPLY WITH TERMS OF PROB', 'FAIL TO APPEAR']"
+CODY BLUE SKY BOGNER,Benton County Sheriff's Office,30,Male,White,['POSSESSION OF FIREARM BY CERTAIN PERSONS']
+Kyle Randal Bolen,Yell County Sheriff's Department,29,Male,White,[]
+SMITH PARKER BONDS,Ouachita County Sheriff's Office,38,Male,White,"['DOMESTIC BATTERING 3RD DEGREE', 'PAROLE VIOLATION']"
+BRANDY LATOSHA BOWERS TRUSLEY,Sevier County Sheriff's Office,39,Female,Black,"['PUBLIC INTOXICATION', 'PUBLIC INTOXICATION', 'RESIDENTIAL BURGLARY', 'CRIMINAL MISCHIEF']"
+THOMAS BRANSCUM,Izard County Sheriffs Office,39,Male,White,['BATTERY 3RD DEGREE']
+Nathan Paul Bradshaw,Sebastian County Sheriff's Department,49,Male,White,"['Return To Testify*', 'ADC Commitment Hold']"
+TYLER BROOKS,Cross County Sheriff's Office,26,Male,White,"['POSSESSION WITH THE PURPOSE TO DELIVER,O', 'POSSESSION WITH THE PURPOSE TO DELIVER,O', 'POSSESSION OF A CONTROLLED SUBSTANCE', 'POSSESSION OF A CONTROLLED SUBSTANCE WIT']"
+Megan Darlene Bradley,Johnson County Sheriff's Office,27,Female,White,['SENTENCED TO SERVE DAYS PER JUDGE']
+Dale Edward Brookreson,Craighead County Sheriff's Office,46,Male,White,"['CRIMINAL TRESPASS IN OR ON A VEHICLE OR STRUCTURE / PREMISES', 'MID-SOUTH HOLD']"
+Cody Lee Bradley,Lawrence County Sheriff's Office,33,Male,White,['Aggravated to Assault']
+TIFFANY DINN BROWNFIELD,Faulkner County Sheriff's Office,31,Female,White,['--P PROBATION VIOLATION']
+Hannah Grace Brust,Sebastian County Sheriff's Department,23,Female,White,"['Cruelty to Animals 1st Offense - Cruel Mistreatment*', 'Cruelty to Animals 1st Offense - Cruel Mistreatment*', 'Cruelty to Animals 1st Offense - Cruel Mistreatment*']"
+MATTHEW ALLAN BROWN,Union County Sheriff's Office,38,Male,White,['DOCS METH']
+BLAKE ALLEN BRADFORD,Pope County Sheriff's Office,21,Male,Black,"['TERRORISTIC THREATENING 1ST DEGREE T', 'CRIMINAL TRESPASS']"
+Latrell Jaquan Brown,Craighead County Sheriff's Office,22,Male,Black,"['CRIMINAL TRESPASS IN OR ON A VEHICLE OR STRUCTURE / VEHICLE', 'Failure to Appear (Misd.)']"
+VERONIKA DAWN BREWER,Greene County Sheriff's Office,18,Female,White,"['POSSESSION OF SCH I,II METH/COCA LT 2G']"
+Corey Douglas Brown,White County Sheriff's Office,39,Male,White,['PROBATION VIOLATION']
+ACIE BREWER,Pulaski County Sheriff's Office,59,Male,Black,[]
+SAMANTHA ROSE BROWN,Miller County Sheriff's Office,37,Female,White,"['POSS CONT SUB I, II METH/COCA =&gt;2G &lt;10G', 'POSS CONT SUB IV, V LT 28G', 'POSS CONT SUB VI &lt; 4OZ']"
+PHILLIP MICHAEL BRADLEY,Garland County Sheriff's Department,32,Male,Black,"['RESIDENTIAL BURGLARY (2 COUNTS)', 'DOMESTIC BATTERY 3RD DEGREE', 'CRIMINAL MISCHIEF 1ST DEGREE (2 COUNTS)', 'RESISTING ARREST', 'CRIMINAL TRESPASS']"
+Jerrel Brandon Brewer,Newton County Sheriff's Office,45,Male,White,['WHITE WARRANT\\PROBATION &amp; PAROLE']
+Timothy E Bradley,Jackson County Sheriff's Office,53,Male,White,['HOLD FOR OTHER AGENCY']
+THOMAS LEWIS BROOKS,Garland County Sheriff's Department,35,Male,Black,['PAROLE HOLD']
+Brandon Dale Brewer,White County Sheriff's Office,41,Male,White,"['FAILURE TO APPEAR', 'ADC/DCC COMMITMENT', 'DOMESTIC BATTERING - 3RD DEGREE / NEGLIGENTLY CAUSES INJURY USING A DEADLY', 'Interference with Emergency Communications 1st Degree']"
+Jason Wayne Brown,Craighead County Sheriff's Office,49,Male,White,['POSSESSION OF SCH I OR II LT 2GM']
+KATE BRANDT,Lonoke County Sheriff's Office,31,Female,White,['CONTEMPT OF COURT M UCR M99']
+DESTINEE FAITH BRUCE,Benton County Sheriff's Office,26,Female,White,"['REVOCATION OF PROBATION/PAROLE', 'REVOCATION OF PROBATION/PAROLE', 'POSS DRUG PARAPHERNALIA PDP M', 'POSS DRUG PARAPHERNALIA PDP M']"
+Colten R Bryant,Calhoun County Sheriff's Office,31,Male,White,['FAILURE TO APPEAR']
+DONNA M BRANAM,Lonoke County Sheriff's Office,38,Female,White,"['FAIL TO APPEAR ON FELONY FTA F UCR', 'BOND SURRENDER']"
+JEREMY ALAN BROSHUIS,Benton County Sheriff's Office,31,Male,White,"['FAIL TO APPEAR ON FELONY', 'POSS CONT SUB SCH 6, GT 4OZ BUT LT 10 LBS', 'POSS CONT SUB SCH 6, GT 4OZ BUT LT 10 LBS']"
+Jefferson Broyles,Jackson County Sheriff's Office,31,Male,White,['Bond Revocation']
+Kevin Wayne Brown,Craighead County Sheriff's Office,36,Male,White,"['Robbery', 'ASSISTING OTHER AGENCIES', 'POSSESSION OF FIREARM BY CERTAIN PERSONS']"
+DAVID JEFFERSON BROWN,Saline County Sheriff's Office,47,Male,White,['ADC HOLD']
+LATOYA CASHAN BRANT,Sebastian County Sheriff's Department,36,Female,Black,['Failure to Appear - Class C Felony*']
+COLTON T BREWER,Cross County Sheriff's Office,26,Male,White,"['FLEEING ON FOOT', 'DISORDERLY CONDUCT']"
+DECAYVEON LATOYE BROWN,Sebastian County Sheriff's Department,21,Male,Black,['Terroristic Threatening in the First Degree*']
+THOMAS JR LEROY BROOKS,Jefferson County Sheriff's Office,63,Male,White,"['Possession of controlled substance with', 'POSSESSION OF FIREARM BY CERTAIN PERSONS', 'POSSESS CONTROLLED SUBSTANCE']"
+SCOTT FITZGERALD BROADNAX,Pulaski County Sheriff's Office,48,Male,Black,['THEFT BY RECEIVING']
+JONATHAN HENRY BRYANT,Faulkner County Sheriff's Office,26,Male,Black,['FCSO SENTENCED TO FCSO THIS DATE']
+MALCOM ELVIS BRUMLEY,Carroll County Sheriff's Office,44,Male,White,"['DOMESTIC BATTERING IN THE THIRD DEGREE', 'WHITE WARRANTPAROLE']"
+Emily Ashlynn Brown,Sebastian County Sheriff's Department,21,Female,White,"['Criminal Trespass - Occupiable Structure*', 'Contempt-Failure to Comply w/ Court A Misd**', 'Contempt-willful disobedience (Failure to Pay Fine)*', 'Contempt-Failure to Comply w/ Court A Misd**', 'Criminal Trespass - Premises*', 'Fleeing -On Foot-Misd*', 'Resisting Arrest Misdemeanor*']"
+NATHAN CORY BRANNON,Pope County Sheriff's Office,33,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+ANDREW JOSHUA BROWN,Garland County Sheriff's Department,22,Male,Black,['POSSESSION OF A CONTROLLED SUBSTANCE']
+ADRAIN RICARDOV BROWN,Baxter County Sheriff's Office,41,Male,Black,"['NON PAYMENT OF FINES MISD DISTRICT', 'FAILURE TO APPEARMISD', 'REVOCATION BENCH WARRANT']"
+Randy L Brown,Searcy County Sheriff's Office,32,Male,White,['FAILURE TO APPEAR']
+Dwight D Branch,White County Sheriff's Office,40,Male,Black,"['ABSCONDING', 'POSSESSION OF CONTROLLED SUB W/O PRESCRIPTION', 'POSSESSION OF METH OR COCAINE GT 2GM BUT LT 10GM', 'POSSESSION OF DRUG PARAPHERNALIA']"
+JEFFERY C BROWN,Faulkner County Sheriff's Office,52,Male,White,['COURT MANDATE-FINES']
+WENDY ESTELLE BRIGHAM,Columbia County Sheriff's Office,38,Female,White,"['FAILURE TO APPEAR MISD M UCR 90Z', 'PAROLE VIOLATION']"
+PAULA JUNE BROCKWAY,Benton County Sheriff's Office,67,Female,White,"['SHOPLIFTING', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'THEFT BY RECEIVING', 'THEFT BY RECEIVING', 'POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G']"
+THOMAS DILLAN BRANNEN,Lonoke County Sheriff's Office,32,Male,White,"['THEFT BY RECEIVING', 'FAIL TO APPEAR ON CLASS A MISDEMEANOR F', 'FAIL TO APPEAR ON UNCLASSIFIED MISDEMEAN']"
+Billy Brown,Franklin County Sheriff's Office,37,Male,Black,['HOLD FOR ANOTHER AGENCIES']
+LANCE RAJOHN BREWER,Miller County Sheriff's Office,29,Male,Black,"['BURGLARY (RESIDENTIAL)', '3RD DEG ASSAULT FAMILY OR HOUSEHOLD MEMB']"
+KATHERINE BROTHERTON,Fulton County Sheriffs Office,38,Female,White,['FAILURE TO APPEAR']
+JAMARION BROWN,Jefferson County Sheriff's Office,21,Male,Black,['Alias Bench Warrant']
+RONDARIUS LATRELL KEYON BRADLEY,Pulaski County Sheriff's Office,22,Male,Black,['MISDEMEANOR COMMITMENT TO PCRDF']
+RAVANN NICOLE BROWN,Pulaski County Sheriff's Office,41,Female,Black,"['AGGRAVATED ASSAULT', 'MISDEMEANOR COMMITMENT TO PCRDF', 'PUBLIC INTOXICATION']"
+VANESSA NICOLE ROBINSON,Pulaski County Sheriff's Office,34,Female,Black,[]
+TONY CURTIS BRIDGES JR,Benton County Sheriff's Office,27,Male,White,"['CRIMINAL TRESPASS', 'PUBLIC INTOXICATION', 'REVOCATION OF PROBATION/PAROLE', 'REVOCATION OF PROBATION/PAROLE', 'REVOCATION OF PROBATION/PAROLE', 'REG SEX OFFENDER FAIL TO COMPLY W/REPORTING', 'REG SEX OFFENDER FAIL TO COMPLY W/REPORTING']"
+TAMMY K PORTER,Pulaski County Sheriff's Office,43,Female,White,[]
+WINCHELL STEVENSON WIGGINS,Pulaski County Sheriff's Office,35,Male,Black,"['FURNISHING, POSSESSING, OR USING PROHIBITED ARTICLES', 'POSSESS W PURPOSE DEL CONTROLLED SUBSTANCE SCHED I,II &lt;2G', 'VIOLATION OF A PROTECTION ORDER']"
+ASHLEY DAWN WILSON,Benton County Sheriff's Office,36,Female,White,"['FAIL TO APPEAR ON FELONY', 'FAIL TO APPEAR ON FELONY', 'FAIL TO APPEAR ON CLASS A MISDEMEANOR (FTA)']"
+COURTNEY CLEMONS,Garland County Sheriff's Department,32,Female,White,"['PROBATION VIOLATION', 'POSSESSION OF A CONTROLLED SUBSTANCE', 'POSSESSION OF DRUG PARAPHERNALIA']"
+JEFFREY MICHAEL BRESSLER,Carroll County Sheriff's Office,49,Male,White,['COURT COMMITMENT']
+COREY ALEXANDER,Pulaski County Sheriff's Office,46,Female,White,"['BATTERY - 1ST DEGREE', 'BREAKING OR ENTERING', 'DOMESTIC BATTERING - 1ST DEGREE', 'MURDER - 1ST DEGREE', 'THEFT OF PROPERTY GE $5,000 LT $25,000']"
+JEFFERY CARL BROWN,Union County Sheriff's Office,52,Male,White,"['PAROLE VIOLATION', 'THEFT OF PROPERTY', 'DETAINER HOLD FOR OTHER AGENCY']"
+RAMYA LASHAY BROWN,Pulaski County Sheriff's Office,20,Female,Black,"['AGGRAVATED ASSAULT ON FAMILY/HOUSEHOLD MEMBER', 'CRIMINAL MISCHIEF 1ST DEGREE-DAMAGES FOR COLLECTING INSURANCE $1,000 OR LESS', 'DOMESTIC BATTERING - 3RD DEG', 'FLEEING', 'OBSTRUCTING GOVERNMENTAL OPERATION/CLASS C', 'POSS CONT SUB SCH 6, LT 4 OZ', 'POSSESS DRUG PARAPHERNALIA MANUFACTURE METH COCAINE', 'THEFT OF PROPERTY(B)(3)(A)']"
+Vincent Lee Burrough,Sebastian County Sheriff's Department,36,Male,White,[]
+JENNIFER NICOLE BURKS,Hot Spring County Sheriff's Office,34,Female,White,['FAILURE TO APPEAR FEL F UCR']
+Allen Dwayne Buchanan,Craighead County Sheriff's Office,27,Male,Black,['POSSESSION OF SCH I OR II LT 2GM']
+FREDERICK AKEEM BURNS,Hot Spring County Sheriff's Office,32,Male,Black,"['FAILURE TO APPEAR FEL', 'BOND SURRENDER']"
+JOHN D BURK,Lonoke County Sheriff's Office,35,Male,White,['WARRANT SERVICE']
+MATTHEW THOMAS BUNCH,Pulaski County Sheriff's Office,31,Male,White,[]
+Robert Felix Burch,Crittenden County Sheriff's Office,47,Male,White,['LOITERING']
+Stasha Burton,White County Sheriff's Office,33,Female,White,['Commitment']
+Anthony Wayne BURNS,White County Sheriff's Office,44,Male,White,"['Pickup Order for Court', 'Fail to Pay Fine', 'Fail to Pay Fine']"
+JEREMY ADAM BURDESS,Faulkner County Sheriff's Office,39,Male,White,['--P PROBATION VIOLATION']
+TRAVIS KYLE BUCK,Clark County Sheriff's Department,30,Male,White,"['continued detetion', 'POSS OF CONTROLLED SUBSTANCE ( METHAMPHE', 'DRUG PARAPHERNALIA']"
+R.J. Burton,White County Sheriff's Office,44,Male,White,"['FAILURE TO APPEAR', 'Commitment', 'Commitment', 'OUT OF TOWN WARRANT/ASSIST']"
+PRAYVON ONTERIO BURRIS,Union County Sheriff's Office,18,Male,Black,"['PETITION TO REVOKE F UCR 90Z', 'PETITION TO REVOKE F UCR 90Z']"
+Chase Allen Bunton,Yell County Sheriff's Department,34,Male,White,[]
+JAMES WESLEY BURCH,Greene County Sheriff's Office,29,Male,White,"['FAILURE TO APPEAR (F) - INCLUDE WARRANT #', 'ABSCONDING', 'WHITE WARRANT']"
+DERRICK RYAN BUDDS,Benton County Sheriff's Office,31,Male,American Indian/Alaska Native,"['FAILURE TO APPEAR', 'REVOCATION OF PROBATION/PAROLE', 'POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F']"
+CLIFTON DANE BURROWS,Izard County Sheriffs Office,40,Male,White,"['POSSESSION OF METHAMPHETAMINE OR COCAINE', 'MAINTAINING A DRUG PREMISE', 'POSSESSION OF DRUG PARAPHERNALIA', 'HABITUAL OFFENDER']"
+ROBERT ALLEN BUNCH,Sebastian County Sheriff's Department,26,Male,White,"['Failure to Appear - Class C Misdemeanor*', 'Assist Outside Agency-Misd*', 'Contempt-Failure to Comply w/ Court A Misd**', 'Contempt-willful disobedience (Failure to Pay Fine)*']"
+JESSIE LEE BUNCHE,England Police Department,32,Male,Black,[]
+BUDDY RAY BUNCH,Carroll County Sheriff's Office,51,Male,White,"['FLEEINGMISDEMEANOR', 'VIOLATION OF NO CONTACT ORDER', 'WHITE WARRANTPAROLE', 'FAILURE TO APPEARMISD']"
+FELIX MAURICIO RODRIGUEZ,Benton County Sheriff's Office,40,Male,White,"['FAILURE TO APPEAR', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'VIOL OF OMNIBUS DWI ACT - 1ST OFFENSE', 'DRIVING W SUSPEND/REVOKED LICENSE', 'FAILURE TO APPEAR']"
+RANDY DESHANE BUCK,Carroll County Sheriff's Office,35,Male,White,"['THEFT BY REC', 'FRAUDULENT USE OF CREDITDEBIT CARD', 'THEFT BY REC', 'FLEEINGMISDEMEANOR', 'HOLD FOR OTHER AGENCY', 'HOLD FOR OTHER AGENCY', 'HOLD FOR OTHER AGENCY', 'NO DRIVERS LICENSE', 'OBEDIENCE TO OFFICIAL DEVICESSIGNSSIG']"
+BLITZIE DIANNA COX,Garland County Sheriff's Department,36,Female,White,"['BREAKING OR ENTERING', 'THEFT OF PROPERTY', 'PAROLE HOLD', 'FAILURE TO PAY RENT / VACATE']"
+DANIEL D BURTON,Pulaski County Sheriff's Office,18,Male,Black,"['AGGRAVATED ASSAULT', 'CRIMINAL MISCHIEF 1ST DEGREE-DAMAGES FOR COLLECTING INSURANCE $1,000 OR LESS', 'CRIMINAL MISCHIEF 1ST DEGREE- PURPOSELY DAMAGES LT $1,000', 'RESISTING ARREST / USES FORCE', 'RESISTING OFFICER', 'TERRORISTIC THREATENING - 1ST DEGREE / THREATENS PHYSICAL INJURY OR PROPERTY DAMAGE']"
+BRANDI LYNN HAMILTON,Pulaski County Sheriff's Office,36,Female,White,"['DEVL,POSS,MANU,ETC DRUG PARAPHERNALIA', 'FURNISHING, POSSESSING, OR USING PROHIBITED ARTICLES', 'MISDEMEANOR COMMITMENT TO PCRDF', 'POSS CONT SUB SCH 6, LT 4 OZ', 'POSS CONT SUBS METH/COCA W/INTENT LT 2G', 'POSSESS CONTROLLED SUBSTANCE SCHED IV,V &lt;28G', 'POSSESSING INSTRUMENTS OF CRIME', 'THEFT BY RECEIVING .$5000&lt;$25000', 'THEFT BY RECEIVING- CLASS D FELONY']"
+JESSICA NICOLE FERGUSON,Garland County Sheriff's Department,35,Female,White,"['DOMESTIC BATTERY 3RD DEGREE', 'VIOLATION OF A NO CONTACT ORDER']"
+BRIAN DEWAYNE BYRD,Poinsett County Sheriff's Office,47,Male,White,"['ASSAULT ON A FAMILY MEMBER 3rd DEG', 'ADC SENTENCED']"
+JOANN CAUSEY,Pulaski County Sheriff's Office,47,Unknown,White,['THEFT BY RECEIVING']
+CODY JAKE CALHOUN,Greene County Sheriff's Office,30,Male,White,['REVOCATION OF PROBATION(F) - INCLUDE WARRANT #']
+CURTIS DAVID CALLAHAN,Benton County Sheriff's Office,61,Male,White,"['ASSAULT - 2ND DEGREE/ RECKLESS CONDUCT CREATES RISK OF PHYSICAL INJURY', 'PUBLIC INTOXICATION', 'DISORDERLY CONDUCT']"
+JUSTIN LYNN CASE,Pulaski County Sheriff's Office,41,Male,White,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'THEFT BY RECEIVING- CLASS D FELONY', 'VIOLATION OF NO CONTACT ORDER']"
+Erasmo Cantu,Crittenden County Sheriff's Office,54,Male,White,"['POSS. OF DRUG PARAPHERNALIA - FELONY', 'BODY ATTACHMENT(CONTEMPT)-WARRANT']"
+STEPHEN ANTHONY CAMPBELL SR.,Independence County Sheriff's Office,40,Male,White,['CONTEMPT OF COURT: FAILURE TO PAY']
+RAMSEY CATO,Conway County Sheriff's Office,38,Male,Black,"['CHILD SUPPORT', 'CRIMINAL TRESPASS']"
+Crystal Lee Caster,Boone County Sheriff's Office,38,Female,White,[]
+Pascual Carbajal,Craighead County Sheriff's Office,29,Male,Unknown,"['PAROLE VIOLATION', 'BATTERY - 2ND DEGREE / PURPOSE OF CAUSING INJURY, CAUSES SERIOUS INJURY', 'ASSAULT ON FAMILY OR HOUSEHOLD MEMBER - 3RD DEGREE / APPREHENSION OF IMMINE']"
+Ellen M Carlton,White County Sheriff's Office,34,Female,White,"['Pickup Order for Court', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+NICHOLAS PAUL CARNATHAN,Jefferson County Sheriff's Office,36,Male,White,['Alias Bench Warrant']
+James Henry Capps,White County Sheriff's Office,49,Male,White,"['ABSCONDING', 'RESISTING ARREST', 'VIOLATION NO CONTACT ORDER']"
+DAVID EUGENE CASTERA,Pulaski County Sheriff's Office,26,Male,White,"['DOMESTIC BATTERING - 3RD DEG', 'FLEEING']"
+MICHAEL VICTOR CARSON,Lonoke County Sheriff's Office,39,Male,White,"['THEFT BY RECEIVING GT 1000 LE 5000', 'DRIVING ON A SUSP LICENSE']"
+CHRISTOPHER MARK CARRIER,Benton County Sheriff's Office,41,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'FAIL TO APPEAR ON FELONY', 'FAIL TO APPEAR ON FELONY']"
+Wesley Taylor Campbell,Franklin County Sheriff's Office,36,Male,White,['Sentenced to DCC']
+ROBERT BENTLEY CAVILEE Jr,Sebastian County Sheriff's Department,32,Male,White,['Failure to Appear - Class C Felony*']
+BRIAN ALLEN CANNON,Pulaski County Sheriff's Office,49,Male,White,[]
+JASON LEE CARPER,Carroll County Sheriff's Office,47,Male,White,"['FAILURE TO APPEARMISD', 'FAILURE TO APPEARMISD', 'DISORDERLY CONDUCT']"
+KEVIN STEPHEN CAMPBELL,Benton County Sheriff's Office,43,Male,White,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'FAIL TO APPEAR ON CLASS A MISDEMEANOR (FTA)', 'FAIL TO APPEAR ON FELONY']"
+Billy Charles Carnes,Crittenden County Sheriff's Office,37,Male,White,"['POSSESSION OF METH OR COCAINE PURPOSE TO DELIVER GT 10GM BUT LT 200GM', 'POSS. OF DRUG PARAPHERNALIA - FELONY', 'POSS. OF FIREARM BY CERTAIN PERSONS', 'SIMULTANEOUS POSS. OF DRUGS AND FIREARMS', 'OFFENSES RELATING TO RECORDS, MAINTAINING PREMISES, ETC.', 'USE OF A COMMUNICATION DEVICE', 'PAROLE VIOLATION-WARRANT']"
+CURTIS CARTER,Pulaski County Sheriff's Office,22,Male,White,[]
+NICHOLAS DEWAYNE CARROLL,Poinsett County Sheriff's Office,38,Male,White,['PROBATION VIOLATION']
+BRIAN MONTGOMERY CALVIN,Garland County Sheriff's Department,49,Male,White,['RAPE']
+Aaron Carter,Franklin County Sheriff's Office,26,Male,White,['HOLD FOR ANOTHER AGENCIES']
+JARED CAMPBELL,Pulaski County Sheriff's Office,37,Male,White,['ENDANGERING WELFARE OF MINOR-1ST DEGREE']
+ROBIN ANN CAULDWELL,Ouachita County Sheriff's Office,44,Female,White,['BENCH WARRANT']
+Lavar Burton Canada,Craighead County Sheriff's Office,42,Male,Black,"['PAROLE VIOLATION', 'POSSESSION OF SCH I OR II LT 2GM']"
+BUDDY CANTRELL,Cross County Sheriff's Office,32,Male,White,"['FAILURE TO APPEAR', ""DRIVING ON A SUSPENDED DRIVER'S LICENSE""]"
+MICHAEL HOMER CAMPBELL,Greene County Sheriff's Office,53,Male,White,"['POSSESSION OF SCH I,II METH/COCA LT 2G', 'FAILURE TO APPEAR (M) - INCLUDE WARRANT #', 'FAILURE TO APPEAR (M) - INCLUDE WARRANT #', 'FAILURE TO APPEAR (M) - INCLUDE WARRANT #']"
+ALICE CANALES L,Pulaski County Sheriff's Office,40,Female,White,[]
+CRYSTAL WELDON-CARLSON,Benton County Sheriff's Office,44,Female,White,"['OBSTRUCTION OF VEHICLE INTERIOR', 'DRIVING W SUSPEND/REVOKED LICENSE', 'INSURANCE REQUIRED (NO PROOF OF INSURANCE)', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'REVOCATION OF PROBATION/PAROLE']"
+JESSICA DAWN MASON,Pulaski County Sheriff's Office,41,Female,White,"['AGGRAVATED ASSAULT', 'CRIMINAL MISCHIEF 1ST DEGREE-DAMAGES FOR COLLECTING INSURANCE $1,000 OR LESS', 'CRIMINAL MISCHIEF 1ST DEGREE- PURPOSELY DAMAGES LT $1,000']"
+KRISTOPHER EUGENE CARR,Carroll County Sheriff's Office,30,Male,Asian / Pacific Islander,"['FAILURE TO APPEARMISD', 'CONTEMPT OF COURT']"
+PHOEBE TENNILLE LOWE,Pulaski County Sheriff's Office,45,Female,Black,"['BATTERY IN THE SECOND DEGREE (LAW ENFORCEMENT)', 'FRAUD(COMMUNICATING FALSE ALARM- NO INJURY']"
+JANICE FAYE CENTER,Benton County Sheriff's Office,46,Female,White,"['FAILURE TO APPEAR', 'CONTEMPT OF COURT FOR FAILURE TO PAY FINES FTP', 'POSSESSION OF FIREARM BY CERTAIN PERSONS']"
+TYIDARIUS TERRICO LIVINGSTON,Crawford County Sheriff’s Department,24,Male,Black,['NO CONTACT ORDERS']
+JULIO CESAR CABELLERO CORTEZ,Grant County Sheriff's Office,46,Male,Unknown,[]
+CORINA D CLARK,Benton County Sheriff's Office,38,Female,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'DOMESTIC BATTERING - 3RD DEG (CLASS A MISDEMEANOR)', 'FAILURE TO APPEAR']"
+REBEKAH FAITH JETT,Sebastian County Sheriff's Department,39,Female,White,['Failure to Appear - Class C Felony*']
+CANDICE V CAUSEY,Lonoke County Sheriff's Office,35,Female,White,"['FAIL TO APPEAR ON FELONY FTA', 'BOND SURRENDER', 'CONTEMPT OF COURT M UCR M99']"
+ISRAEL JR CERVANTES,Izard County Sheriffs Office,29,Male,Unknown,['CONTEMPT OF COURT']
+Kevin Stewart Cecil,Crittenden County Sheriff's Office,51,Male,White,['FAILURE TO APPEAR-WARRANT']
+ERIC JOBE CHAVERS,Pope County Sheriff's Office,21,Male,White,"['REFUSAL TO SUBMIT TO ARREST', 'OBSTRUCTING GOVERNMENTAL OPERATIONS']"
+CHARLES CHILDRESS,Ashley County Sheriff's Office,52,Male,Black,['PUBLIC INTOXICATION - DRINKING IN PUBLIC']
+CHARLES CHILDRESS JR,Crossett Police Department,52,Male,Black,['PUBLIC INTOXICATION - DRINKING IN PUBLIC - MISDEMEANOR']
+REBA SUE CHANDLER,Sebastian County Sheriff's Department,65,Female,White,['Drug Court Sanctions *']
+RICKY GENE CHILDERS,Crawford County Sheriff’s Department,49,Male,White,"['FLEEING', 'OBSTRUCTING GOVERNMENTAL OPERATIONS', 'ABSCONDING']"
+CEDRIC CHRISTOPHER,Pulaski County Sheriff's Office,23,Male,Black,[]
+Brandy Lee Cheire Chambers,Sebastian County Sheriff's Department,30,Female,White,"['Breaking or Entering- - Building, Structure or Vehicle*', 'Breaking or Entering- - Building, Structure or Vehicle*', 'Parole Violation*', 'Absconding *', 'Assist Outside Agency-Felony*']"
+AMBER LEIGH CHILDS,Garland County Sheriff's Department,49,Female,White,['COMMUNICATING FALSE ALARM']
+DERIN D CHANDLER,Union County Sheriff's Office,29,Male,White,"['POSS DRUG PARAPHERNALIA', 'FAIL TO APPEAR MISD']"
+THURMAN PAUL CHEESMAN,Pulaski County Sheriff's Office,44,Male,White,[]
+JONATHAN RAY CHANDLER,Mississippi County Sheriff's Office,35,Male,White,"['FLEEING IN VEHICLE', 'PETITION FOR REVOCATION', 'DRIVING WHILE SUSP/REV/CANC-NON DWI', 'SPEEDING', 'NO SEATBELT', 'NO DRIVERS LICENSE', 'NO LIABILITY INSURANCE', 'RECKLESS DRIVING']"
+DARRYL LAMONT CHAMBERS,Garland County Sheriff's Department,30,Male,Black,['CRIMINAL MISCHIEF 1ST DEGREE']
+Jamie Art Chavira,Franklin County Sheriff's Office,47,Male,White,['HOLD FOR ANOTHER AGENCIES']
+Elizabeth J. Chandler,White County Sheriff's Office,52,Female,White,"['FAILURE TO APPEAR', 'Fail to Pay Fine']"
+DEWAYNE ONEIL CHOATE,Pope County Sheriff's Office,43,Male,White,"['FORGERY 2ND DEGREE', 'FORGERY 2ND DEGREE', 'FINANCIAL IDENTITY FRAUD', 'FAILURE TO APPEAR M UCR 90Z']"
+BABYGIRL CHARLESTON,Mississippi County Sheriff's Office,22,Female,Black,"['FAILURE TO APPEAR 2', 'FAILURE TO APPEAR 2', 'FAILURE TO APPEAR 2']"
+JASON CHILDRESS,Benton County Sheriff's Office,40,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'CONTEMPT OF COURT FOR FAILURE TO PAY FINES FTP', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'REVOCATION OF PROBATION/PAROLE']"
+JOHN RANDALL CHOATE VII,Pulaski County Sheriff's Office,61,Male,White,[]
+DAVID PAUL CHASTEN,Benton County Sheriff's Office,31,Male,White,"['REVOCATION OF PROBATION/PAROLE', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'FAILURE TO APPEAR']"
+JACOB ALLEN CHURCHES,Marion County Sheriff's Office,23,Male,White,['FAILURE TO APPEAR MISDEMEANOR']
+ALTON JERMAINE CRESSELL,Nevada County Sheriff's Office,34,Male,Black,['PAROLE HOLD']
+TABITHA JOANNA CLEVELAND,Benton County Sheriff's Office,61,Female,White,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'REVOCATION OF PROBATION/PAROLE']"
+BKY CHANTHAPHASOUK,Carroll County Sheriff's Office,36,Male,Asian / Pacific Islander,['ARKANSAS STATE PRISON TRUSTEE']
+HUNTER NOLAN CHENOWETH,Carroll County Sheriff's Office,23,Male,White,['HOLD FOR OTHER AGENCY']
+MARY ELLEN CIESIELSKI,Baxter County Sheriff's Office,63,Female,White,"['INDECENT EXPOSURE', 'DISORDERLY CONDUCT']"
+HEATHER CLINE,Benton County Sheriff's Office,36,Female,White,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'POSSESSION OF A CONTROLLED SUBSTANCE (PCS)', 'POSS CONT SUB SCH 6, LT 4 OZ', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'POSS DRUG PARAPHERNALIA PDP M']"
+Thomas Clark III,Lincoln County Sheriff's Office,41,Male,Black,"['BATTERY - 2ND DEGREE / PURPOSE OF CAUSING INJURY, CAUSES SERIOUS INJURY']"
+JOSHUA MICHAEL CLINGER,Benton County Sheriff's Office,31,Male,White,['BATTERY - 2ND DEGREE']
+KRISNA CLARK,Pulaski County Sheriff's Office,35,Male,Black,[]
+BRANDON BERNARD CLARK,Mississippi County Sheriff's Office,41,Male,Black,['FAILURE TO APPEAR 1']
+Lucy Shirley Lee Clark,Jackson County Sheriff's Office,19,Female,Black,"['DRIVING ON SUSPENDED LICENSE', 'HANDGUNS - POSSESSION BY MINOR OR POSSESSION ON SCHOOL PROPERTY']"
+RAMONA KAY CLENDENIN,Faulkner County Sheriff's Office,57,Female,White,['-- POSSESSION OF CONTROLLED SUBSTANCE']
+CEDRICK DEWAYNE CLEAR,Greene County Sheriff's Office,23,Male,Black,['TERRORISTIC THREATENING']
+CHADRICK CLARK,Woodruff County Sheriff's Office,36,Male,Black,['PAROLE HOLD']
+CHRISTINA MARIE SIMCOX,Pulaski County Sheriff's Office,36,Female,White,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G']"
+STEPHANIE MARANDA HALL,Garland County Sheriff's Department,27,Female,White,"['POSSESSION OF METHAMPHETAMINE OR COCAINE', 'POSSESSION OF DRUG PARAPHERNALIA', 'PROBATION VIOLATION']"
+JACOB ANTHONY CONTRERAS,Greene County Sheriff's Office,18,Male,Unknown,['FAILURE TO APPEAR (M) - INCLUDE WARRANT #']
+RANDALL SCOTT COOPER,Pulaski County Sheriff's Office,29,Male,White,[]
+TYRESE COX,Pulaski County Sheriff's Office,23,Male,Black,[]
+JUSTIN JAMES COKER-SIMPSON,Faulkner County Sheriff's Office,34,Male,White,['CONT CONTEMPT OF COURT']
+FALESHA SUE COUSINS,Sharp County Sheriff's Office,32,Female,White,['Court Sentenced']
+CHRISTOPHER MICHAEL JONES,Garland County Sheriff's Department,48,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+Crystal DAWN Cox,Craighead County Sheriff's Office,42,Female,White,"['Failure to Appear (Misd.)', 'DRIVING ON SUSPENDED DL']"
+OSCAR FERNANDO CORTEZ-RECINOS,Benton County Sheriff's Office,22,Male,White,"['FAILURE TO APPEAR', 'FAIL TO APPEAR ON CLASS B MISDEMEANOR (FTA)', 'REVOCATION OF PROBATION/PAROLE', 'REVOCATION OF PROBATION/PAROLE', 'FAILURE TO APPEAR']"
+DALTON JAMES COX,Benton County Sheriff's Office,25,Male,White,"['AGGRAVATED ASSAULT', 'FLEEING', 'FLEEING', 'FAILURE TO APPEAR', 'REVOCATION OF PROBATION/PAROLE']"
+BRIAN COWART,Faulkner County Sheriff's Office,52,Male,White,['COURT MANDATE-FINES']
+LENARA PAULETTE SHOTT,Benton County Sheriff's Office,45,Female,White,"['POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'FAILURE TO APPEAR', 'CRIMINAL CONTEMPT']"
+JAMES ALLEN COCHRAN,Faulkner County Sheriff's Office,48,Male,White,"['-- CRIMINAL CONTEMPT', '--P PROBATION VIOLATION']"
+HENRY COOPER III,Clark County Sheriff's Department,28,Male,White,"['48 Hour Felony Hold', 'HOLD FOR ANOTHER AGENCY', 'FAIL TO OBEY TRAFFIC CONTROL DEVICE', 'No Liability insurance', 'DRIVING ON SUSPENDED', 'NO SEAT BELT', 'Speeding 20 over']"
+DARMERTESS COLLINS,Ashley County Sheriff's Office,34,Male,Black,['ABSCONDING']
+JONATHON NA CONWAY,Independence County Sheriff's Office,38,Male,White,['SNT TO ADC']
+JASON L COSEY,Pulaski County Sheriff's Office,38,Male,Black,[]
+JAMES ROSS COKE,Pulaski County Sheriff's Office,45,Male,White,[]
+SCOTT COLLUMS,Mississippi County Sheriff's Office,34,Male,White,['FAILURE TO APPEAR 1']
+DENNIS COONEY,Faulkner County Sheriff's Office,41,Male,Black,['--A BATTERY - ND DEGREE INJURES PERSONS D']
+LEWELLIS ELIJAH COLEMAN,Garland County Sheriff's Department,50,Male,Black,"['POSSESSION OF A CONTROLLED SUBSTANCE', 'POSSESSION OF DRUG PARAPHERNALIA', 'LOUD AND DISTURBING NOISE', 'FAILURE TO APPEAR']"
+CHANTELLE LANEA COX,Pulaski County Sheriff's Office,40,Female,Black,[]
+KORTNI CONNORS,Benton County Sheriff's Office,37,Female,Unknown,"['RESIDENTIAL BURGLARY', 'RESIDENTIAL BURGLARY', 'THEFT OF PROPERTY']"
+CARIE LEA COOK,Pulaski County Sheriff's Office,44,Female,White,"['CARELESS AND PROHIBITED DRIVING', 'DRIVING LEFT OF CENTER', 'DRIVING WHILE LICENSE CANCELLED, SUSPENDED OR REVOKED', 'FAIL TO APPEAR ON UNCLASSIFED MISDEMEANOR (FTA)', 'INSURANCE REQUIRED- FAILED TO PRESENT PROOF OF INSURANCE', 'MISDEMEANOR COMMITMENT TO PCRDF', 'NO LIABILITY INSURANCE', 'POSS CONT SUB SCH 6, LT 4 OZ', 'POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'POSS DRUG PARAPHERNALIA']"
+ERIC COHEN,Prairie County Sheriff's Office,40,Male,Black,['CONTEMPT OF COURT M UCR']
+Cody Alan Coughlin,White County Sheriff's Office,25,Male,White,['FAILURE TO APPEAR']
+Tyler Lee Corson,Jackson County Sheriff's Office,22,Male,White,['ABSCONDING']
+William Clifford Cooper,White County Sheriff's Office,59,Male,White,"['PROBATION VIOLATION', 'DELIVERY OF METHAMPHETAMINE OR COCAINE', 'Criminal Use of a Communication Device', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+EDRICK KWANDRE COGGINS,Saline County Sheriff's Office,30,Male,Black,['18 MONTHS ADC']
+SHANNON WAYNE COLLINS,Pope County Sheriff's Office,44,Male,White,['CIRCUIT COURT COMMITMENT']
+Adam Lee Collins,Sebastian County Sheriff's Department,40,Male,White,['Petition to Revoke - Felony *']
+ROBERT LOUIS CORY,Benton County Sheriff's Office,35,Male,White,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'REVOCATION OF PROBATION/PAROLE']"
+SHERRY L COLE,Pulaski County Sheriff's Office,37,Female,White,['PROBATION REVOCATION']
+DEWEY LEON COLEMAN,Benton County Sheriff's Office,33,Male,White,"['FORGERY 2ND DEGREE', 'THEFT OF PROPERTY', 'FORGERY 2ND DEGREE', 'THEFT OF PROPERTY', 'FAIL TO APPEAR ON CLASS B MISDEMEANOR (FTA)', 'FORGERY 2ND DEGREE', 'FORGERY 2ND DEGREE', 'THEFT OF PROPERTY', 'THEFT OF PROPERTY', 'CONTEMPT OF COURT FOR FAILURE TO COMPLY WITH COURT ORDER FTC']"
+WILLIAM COOK,Miller County Sheriff's Office,24,Male,White,"['CRIMINAL MISCHIEF 1ST DAMAGE GT 1K LT 5K', 'LOITERING']"
+WILLIAM HARTWELL COOKE,Baxter County Sheriff's Office,19,Male,White,"['THEFT BY RECEIVINGCLASS D FELONY', 'THEFT BY RECEIVINGCLASS D FELONY', 'THEFT OF PROPERTYCLASS A MISD', 'THEFT OF PROPERTYCLASS C FELONY', 'THEFT OF PROPERTYCLASS C FELONY']"
+Charles Michael Cooper,Craighead County Sheriff's Office,62,Male,White,"['POSSESSION OF SCH I OR II LT 2GM', 'Summons to Court']"
+CHLOE CONN,Nevada County Sheriff's Office,24,Female,White,['WARRANT SERVICE']
+DERRICK L COLBERT,Pulaski County Sheriff's Office,41,Male,Black,"['POSSESSION OF FIREARM BY CERTAIN PERSONS', 'POSSESS SCH 6 W/INTENT LT 14G']"
+RACHEL IRENE COOK,Sebastian County Sheriff's Department,41,Female,White,"['Parole Violation*', 'Failure to Appear - Class B Misdemeanor*', 'ADC Commitment Hold']"
+NIKESHA EASLEY,Benton County Sheriff's Office,36,Female,White,['THEFT OF PROPERTY']
+FRANK DALLAS CORWIN 2ND,Benton County Sheriff's Office,57,Male,White,"['FAILURE TO APPEAR', 'REVOCATION OF PROBATION/PAROLE']"
+CODY GRANVILLE BROOKS,Saline County Sheriff's Office,29,Male,White,"['KIDNAPPING CLASS B', 'RESIDENTIAL BURGLARY - FELONY', 'DOMESTIC BATTERY CLASS D', 'BATTERY IN THE THIRD DEGREE - CLASS C - MISDEMEANOR', 'PROBATION VIOLATION-FELONY']"
+ROBERT LEE COLLEY,Sebastian County Sheriff's Department,26,Male,White,"['Domestic Battering in the Third Degree - Purposely*', 'Aggravated Assault Upon a Certified Law Enforcement Officer or an Employee of a Correctional Facility *', 'Aggravated Assault Upon a Certified Law Enforcement Officer or an Employee of a Correctional Facility *', 'Aggravated Assault Upon a Certified Law Enforcement Officer or an Employee of a Correctional Facility *', 'Aggravated Assault Upon a Certified Law Enforcement Officer or an Employee of a Correctional Facility *', 'Aggravated Assault Upon a Certified Law Enforcement Officer or an Employee of a Correctional Facility *', 'PETITION TO REVOKE - MISD*', 'Domestic Battering in the Third Degree - Recklessly*']"
+TABITHA JOANNA CLEVELAND,Benton County Sheriff's Office,61,Female,White,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'REVOCATION OF PROBATION/PAROLE']"
+Draper Gene Crone,Sebastian County Sheriff's Department,41,Male,White,[]
+KEAIR MAURICE CRISWELL,Faulkner County Sheriff's Office,24,Male,Black,['-- FAIL TO APPEAR']
+JAMES CRENSHAW,Faulkner County Sheriff's Office,36,Male,Black,['-- AGGRAVATED ASSAULT ON A FAMILY OR HOUSE']
+CHRISTINA MARIE LAMBERT,Garland County Sheriff's Department,41,Female,White,"['POSSESSION OF A CONTROLLED SUBSTANCE', 'POSSESSION OF DRUG PARAPHERNALIA ( 2 COU', 'FAILURE TO APPEAR']"
+NICKOLAS PAUL CROSS,Benton County Sheriff's Office,20,Male,White,"['POSSESSION OF A CONTROLLED SUBSTANCE (PCS)', 'POSSESSION OF A CONTROLLED SUBSTANCE (PCS)', 'REVOCATION OF PROBATION/PAROLE']"
+Michael Demetrius Crayton,Crittenden County Sheriff's Office,30,Male,Black,"['POSS. OF FIREARM BY CERTAIN PERSONS', 'DRIVING WHILE LICENSE CANCELLED,SUSPENDED,OR REVOKED NON DWI']"
+RAYMOND ALLEN CROOM,Lawrence County Sheriff's Office,50,Male,White,['Revocation warrant']
+Shannon Ray Cruise,Sebastian County Sheriff's Department,45,Male,White,"['Failure to Appear - Class B Misdemeanor*', 'Contempt-willful disobedience (Failure to Pay Fine)*']"
+CONTRAIL CRISWELL,Conway County Sheriff's Office,42,Male,Black,['DISORDERLY CONDUCT']
+Asher L Crail,Pike County Sheriff's Office,18,Male,White,"['Residental Burglary', 'THEFT $1,000 OR LESS - ALL OTHERS', 'THEFT $5,000 OR LESS BUT GREATER THAN $1']"
+HAYDEN SETH CROW,Greene County Sheriff's Office,21,Male,White,"['FAILURE TO APPEAR (F) - INCLUDE WARRANT #', 'FAILURE TO APPEAR (F) - INCLUDE WARRANT #', 'BREAKING OR ENTERING', 'REVOCATION OF PROBATION(F) - INCLUDE WARRANT #', 'FAILURE TO APPEAR (F) - INCLUDE WARRANT #', 'WHITE WARRANT']"
+CANDY SUE CRAWFORD,Baxter County Sheriff's Office,42,Female,White,['REVOCATION BENCH WARRANT']
+RICKY SHAWN CRAWFORD,Miller County Sheriff's Office,36,Male,Black,"['FTA', 'FTA']"
+JASMYNE CRUMPTON,Pulaski County Sheriff's Office,30,Female,Black,"['AGGRAVATED ASSAULT', 'CRIMINAL MISCHIEF 1ST DEGREE-PURPOSELY DAMAGES MT $1,000 BUT LT $5,000']"
+ANGELA JO JOHNSON,Garland County Sheriff's Department,44,Female,White,"['BREAKING OR ENTERING X12', 'CRIMINAL TRESPASS', 'HOLD FOR OTHER AGENCY (MONTGOMERY CO SO']"
+RIKKI MARA RATLIFF,Pulaski County Sheriff's Office,36,Female,White,[]
+JOSEPH CUMMINGS,Cross County Sheriff's Office,25,Male,White,"['VIOLATION OF OMNIBUS DWI ACT', 'TRAFFIC - OTHER/MISC.']"
+JOHN C CURLETT,Faulkner County Sheriff's Office,47,Male,Black,[]
+MICHELLE JENNIFER CUNNINGHAM,Garland County Sheriff's Department,34,Female,White,['BREAKING OR ENTERING']
+CHASE LARON FLOURNOY,Saline County Sheriff's Office,37,Male,Black,"['FAILURE TO APPEAR (FOR MISDEMEANOR OFFENSE) - MISDEMEANOR', 'FAILURE TO APPEAR (FOR FELONY OFFENSE) - FELONY', 'FAILURE TO APPEAR (FOR FELONY OFFENSE) - FELONY']"
+Jachob Stephan Davis,Craighead County Sheriff's Office,20,Male,White,['PUBLIC INTOXICATION / DRINKING IN PUBLIC']
+JORDIN DAVIS,Izard County Sheriffs Office,29,Male,White,['HOLD FOR OTHER AGENCY']
+TYE GARITT DAVIDSON,Greene County Sheriff's Office,21,Male,White,['REVOCATION OF PROBATION(F) - INCLUDE WARRANT #']
+HAROLD DAILY,Cross County Sheriff's Office,71,Male,White,['FAILURE TO COMPLY WITH REGISTRATION AND']
+MARK CHRISTOPHER DAILEY,Howard County Sheriff's Office,37,Male,White,['DOMESTIC BATTERY 3RD DEGREE']
+DJANON KVANTE DAVIS,Pulaski County Sheriff's Office,27,Male,Black,[]
+MARISSA DAVIS,Logan County Sheriff's Office,32,Female,White,"['BREAKING OR ENTERING', 'THEFT OF PROPERTY']"
+CURTIS LEE DANSBY,Miller County Sheriff's Office,50,Male,Black,['RAPE']
+Kristy Mae Davis,Sebastian County Sheriff's Department,39,Female,White,"['Failure to Appear - Class B Misdemeanor*', 'Contempt-willful disobedience (Failure to Pay Fine)*']"
+RODNEY LEWIS WATSON LEWIS,Pulaski County Sheriff's Office,55,Male,Black,"['DRIVE OR MOVE VEH W/O REG', 'DRIVING WHILE LICENSE CANCELLED, SUSPENDED OR REVOKED', 'NO LIABILITY INSURANCE', 'POSS DRUG PARAPHERNALIA', 'POSSESSION OF FIREARM BY CERTAIN PERSONS', 'THEFT BY RECEIVING']"
+OMBLEO DANIELS,Pulaski County Sheriff's Office,51,Male,White,"['ROBBERY', 'THEFT BY RECEIVING- CLASS D FELONY']"
+DAVID RAY DAVIDSON,Sebastian County Sheriff's Department,41,Male,White,['Failure to Appear - Class C Felony*']
+CHRISTOPHER MICHAEL DANIELS,Benton County Sheriff's Office,30,Male,White,"['BATTERY - 3RD DEGREE', 'BATTERY - 3RD DEGREE', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+APRIL RACHELLE DAIGLE,Independence County Sheriff's Office,37,Female,White,['SNT TO SSP']
+WILLIAM MICHAEL DAVIDSON,Garland County Sheriff's Department,28,Male,White,"['THEFT OF PROPERTY', 'BREAKING OR ENTERING', 'FLEEING ON FOOT', 'THEFT OF PROPERTY', 'PAROLE HOLD']"
+DANIEL DAVIS,Faulkner County Sheriff's Office,39,Male,White,"['---M FAIL TO APPEAR-MISD', '---M FAIL TO APPEAR-MISD', '---M FAIL TO APPEAR-MISD', '--F FAIL TO APPEAR - FELONY']"
+DEBORAH BARRON,Pulaski County Sheriff's Office,50,Female,Black,['BATTERY - 3RD DEGREE']
+SARA CORRYN GORRELL,Garland County Sheriff's Department,41,Female,White,"['POSSESSION OF A CONTROLLED SUBSTANCE', 'POSSESSION OF A CONTROLLED SUBSTANCE', 'HOLD FOR OTHER AGENCY (MONTGOMERY COUNTY']"
+BRETT LEE DAVIS,Carroll County Sheriff's Office,38,Male,White,"['FAILURE TO APPEAR FEL', 'REVOCATION', 'REVOCATION', 'FAILURE TO APPEARMISD', 'BOND SURRENDER']"
+JESUS DAVILA DORANTES,Pulaski County Sheriff's Office,38,Male,White,[]
+TIMOTHY DOYLE DAVIS SR Sr,Arkansas County Sheriff's Office,46,Male,White,"['72 Hour Investgation Hold', 'ARSON', 'Assisting Escape', 'Contempt 0f Court (Misdemranor)']"
+ALEJANDRO RIVERA DE JESUS,Baxter County Sheriff's Office,41,Male,Unknown,['REVOCATION BENCH WARRANT']
+JENNA L DEWITT,Sebastian County Sheriff's Department,19,Female,White,['Contempt-Failure to Comply w/ Court A Misd**']
+Andre J Desautels,White County Sheriff's Office,59,Male,White,['FAILURE TO APPEAR']
+JONATHON D DEGUNION,Crawford County Sheriff’s Department,32,Male,White,['BODY ATTACHMENT']
+BROOKLYNN SKY DESHIELDS,Carroll County Sheriff's Office,25,Female,White,"['SIMULTANEOUS POSSESSION OF DRUG FA', 'DRUG PARAPHERNALIA', 'POSSESSION', 'POSSESSION', 'POSSESSION', 'POSSESSION', 'FAILURE TO APPEARMISD']"
+Michael Weslay-Blaine Deal,Franklin County Sheriff's Office,21,Male,White,"['PUBLIC INTOXICATION', 'ASSAULT - 3RD DEGREE / CREATES APPREHENSION OF IMMINENT INJURY']"
+AMANDA ESTELLE GORECKE,Garland County Sheriff's Department,30,Female,White,['FAILURE TO APPEAR']
+MARGARET DEGARMO,Pulaski County Sheriff's Office,76,Female,White,"['ARSON LESS $500', 'CRIMINAL TRESPASS', 'RESISTING ARREST- REFUSAL TO SUBMIT TO ARREST']"
+DENNIS LAMONT HARDIN,Independence County Sheriff's Office,63,Male,Black,['HABITUAL OFFENDER']
+HUNTER DE LA GARZA,Benton County Sheriff's Office,23,Male,White,['RAPE']
+DEVON ALEXANDER RICHMOND,Benton County Sheriff's Office,27,Male,White,"['SIMULT POSS OF DRUGS AND FIREARMS', 'POSSESS SCH 6 W/INTENT LT 14G', 'POSS CONT SUBS METH/COCA W/INTENT LT 2G', 'POSS SCH I OR SCH II CONTR SUB THAT IS NOT\nMETH OR COCA W/PURPOSE TO DELIVER', 'POSS DRUG PARAPHERNALIA PDP M', 'FAILURE TO APPEAR', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'DISTRIBUTION OF CONTROLLED SUBSTANCE NEAR CERTAIN FACILITIES', 'MAINTAINING DRUG PREMISES (NON DRUG-FREE ZONE)', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'DELIVERY SCH 6', 'DELIVERY SCH 6', 'DELIVERY METH/COCA LT 2G', 'DELIVERY METH/COCA LT 2G', 'UNLAWFUL USE OF A COMMUNICATIONS DEVICE/FRAUD BY WIRE', 'UNLAWFUL USE OF A COMMUNICATIONS DEVICE/FRAUD BY WIRE', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+KORECKIA MICHELLE DILLARD,Cross County Sheriff's Office,46,Female,Black,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+ALANNA DINGMAN,Benton County Sheriff's Office,20,Female,White,"['PUBLIC INTOXICATION', 'DISORDERLY CONDUCT', 'BATTERY - 2ND DEGREE - CERTAIN VICTIMS', 'BATTERY - 2ND DEGREE - CERTAIN VICTIMS', 'BATTERY - 2ND DEGREE - CERTAIN VICTIMS']"
+DAVID EARL DICKERSON,Poinsett County Sheriff's Office,60,Male,White,['RPF SENTENCED']
+BRAD DOLLS JR,Faulkner County Sheriff's Office,31,Male,Black,['FCSO SENTENCED TO FCSO THIS DATE']
+GARY MARK DOWNS JR,Pope County Sheriff's Office,39,Male,White,"['POSS CONT SUB', 'FLEEING', 'RESISTING ARREST USES FORCE', 'FAIL TO PAY FINE OR COSTS FTPTP', 'NO LOCAL HOLDF']"
+MATTHEW LEE DONAHUE,Greene County Sheriff's Office,34,Male,White,"['POSSESSION OF SCH I,II EXC METH/COCA LT 2G', 'POSSESSION OF SCH I,II METH/COCA LT 2G', 'FAILURE TO APPEAR (M) - INCLUDE WARRANT #', 'NONPAYMENT OF FINES']"
+JEFFERY SCOTT DORRELL,Saline County Sheriff's Office,55,Male,White,['FAILURE TO APPEAR (FOR FELONY OFFENSE) - FELONY']
+JAMES DOBLE,Benton County Sheriff's Office,59,Male,White,"['DOMESTIC BATTERING - 2ND DEG', 'DOMESTIC BATTERING - 2ND DEG']"
+Jeremy J Doles,White County Sheriff's Office,34,Male,White,"['POSSESSION OF DRUG PARAPHERNALIA', 'TAMPER WITH PHYSICAL EVIDENCE- OBSTRUCT PROSECUTION /DEFENSE FELONY']"
+Christopher Adam Dougan,Craighead County Sheriff's Office,40,Male,White,['POSSESSION OF SCH I OR II GT 2GM BUT LT 10GM']
+CYNTHIA GAYLE DOCKERY,Crawford County Sheriff’s Department,41,Female,White,"['THEFT OF PROPERTY', 'RESISTING ARREST - REFUSAL TO SUBMIT TO ARREST', 'PUBLIC INTOXICATION - DRINKING IN PUBLIC']"
+MICHAEL S DOHERTY,Pulaski County Sheriff's Office,37,Male,White,[]
+BELLOT THIAM DOUCOURE,Benton County Sheriff's Office,41,Male,White,"['RAPE', 'RAPE', 'SEXUAL ASSAULT - 2ND DEGREE', 'SEXUAL ASSAULT - 2ND DEGREE', 'SEXUAL ASSAULT - 2ND DEGREE']"
+KAREN DOWNS,Logan County Sheriff's Office,44,Male,White,"['POSSESSION OF A CONTROLLED SUBSTANCE', 'POSSESSION OF DRUG PARAPHERNALIA']"
+BRODERICK DENTE DOLPHIN,Arkansas County Sheriff's Office,41,Male,Black,"['Parole Violation', 'Parole Violation', 'Failure to appear', 'Fine Review', 'Failure to appear', 'Criminal Impersonation', 'Fleeing on Foot']"
+DUSTIN CURTIS DOAK,Carroll County Sheriff's Office,37,Male,White,"['CRIMINAL MISCHIEF', 'DISORDERLY CONDUCT']"
+DUSTIN RAY BRADBURY,Garland County Sheriff's Department,41,Male,White,"['FORGERY 2ND DEGREE', 'THEFT OF PROPERTY', 'FAILURE TO APPEAR', 'FORGERY 2ND DEGREE', 'THEFT BY RECEIVING', 'EXTRADITION OUT OF STATE (COMAL COUNTY T']"
+CHARLES WESLEY DONALDSON,Carroll County Sheriff's Office,42,Male,White,"['DOMESTIC BATTERY 3RD FELONY', 'VIOLATION OF PROTECTION ORDER', 'FAILURE TO APPEARMISD', 'FAILURE TO APPEARMISD']"
+SERGIO SERRANO,Benton County Sheriff's Office,36,Male,White,"['KIDNAPPING', 'TERRORISTIC THREATENING - 1ST DEGREE / THREATENS PHYSICAL INJURY OR PROPERTY DAMAGE', 'DOMESTIC BATTERING - 3RD DEG (CLASS D FELONY)', 'REVOCATION OF PROBATION/PAROLE']"
+JOSHUA YANCY,Pulaski County Sheriff's Office,28,Male,White,"['BATTERY 2ND/CAUSES INJURY WITH A WEAPON', 'BATTERY - 2ND DEGREE', 'OBSTRUCTING GOVERNMENTAL OPERATION/CLASS C']"
+CHARLES EDWARD DOBIS JR,Saline County Sheriff's Office,63,Male,White,"['TERRORISTIC THREATENING IN THE FIRST DEGREE - CLASS D - FELONY', 'TERRORISTIC THREATENING IN THE FIRST DEGREE - CLASS D - FELONY', 'TERRORISTIC THREATENING IN THE FIRST DEGREE - CLASS D - FELONY']"
+COLE ISHMAUL DRYE,Saline County Sheriff's Office,36,Male,White,"['DOMESTIC BATTERING IN THE FIRST DEGREE - FELONY', 'FALSE IMPRISONMENT IN THE FIRST DEGREE - FELONY', 'TERRORISTIC THREATENING IN THE FIRST DEGREE - CLASS D - FELONY']"
+STEPHANIE ANN DRISKILL,Garland County Sheriff's Department,35,Female,White,"['FAILURE TO APPEAR', 'POSSESSION OF A CONTROLLED SUBSTANCE', 'POSSESSION OF DRUG PARAPHERNALIA']"
+KYLE LEE CROSSNO-DRAKE,Crawford County Sheriff’s Department,30,Male,White,['TRAFFICKING A CONTROLLED SUBSTANCE']
+Samantha Leigh Durby,White County Sheriff's Office,47,Female,White,['Commitment']
+HAYLEY JEAN DUNLAP,Lawrence County Sheriff's Office,19,Female,White,['THREAT-TERRORISTIC-STATE OFFENSE']
+William R. Dunn,White County Sheriff's Office,54,Male,White,['FAILURE TO APPEAR']
+DERECK ADAM DUTTON,Lawrence County Sheriff's Office,33,Male,White,['DOMESTIC BATTERY 3RD DEGREE']
+NOAH THURMAN DURLEY CAMPBELL,Pulaski County Sheriff's Office,22,Male,Black,"['BATTERY - 3RD DEGREE', 'DISORDERLY CONDUCT', 'FLEEING', 'PUBLIC INTOXICATION', 'RESISTING ARREST- REFUSAL TO SUBMIT TO ARREST']"
+JORDAN RAY WARD,Garland County Sheriff's Department,29,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'PAROLE HOLD']"
+ZACHARY DYSON,Benton County Sheriff's Office,32,Male,Unknown,['FAILURE TO APPEAR']
+Ryan Easton,White County Sheriff's Office,35,Male,White,['PROBATION VIOLATION']
+JOSEPH DAVID EASLEY,Pulaski County Sheriff's Office,32,Male,White,['THEFT OF LEASED RENTED ENTRUSTED PROPERTY 5K-25K']
+Terrance Tyrone Eason,Crittenden County Sheriff's Office,32,Male,Black,"['DOMESTIC BATTERING - 3RD DEGREE / PURPOSE OF CAUSING INJURY, CAUSES SERIOU', 'DOMESTIC BATTERING - 2ND DEGREE / PHYSICAL INJURY', 'DISORDERLY CONDUCT']"
+James Jordan Eakes Sr,Craighead County Sheriff's Office,51,Male,White,"['FLEEING', 'ASSISTING OTHER AGENCIES']"
+ANTOINETTE HEZILE EARL,Pope County Sheriff's Office,42,Female,Black,"['NONFINANCIAL IDENTITY FRAUD', 'THEFT OF PROPERTY', 'FRAUDULENT USE OF CREDITDEBIT CARD']"
+SCOTT ALFRED EASLEY,Carroll County Sheriff's Office,34,Male,White,"['RAPE', 'TRAFFICKING OF PERSONS', 'COURT APPEARANCE', 'HOLD FOR OTHER AGENCY']"
+RAMANDA RACHELLE ECHOLS,Garland County Sheriff's Department,35,Female,White,['SENTENCED JAIL TIME']
+ADESUWA PHATE EDOGUN,Pulaski County Sheriff's Office,37,Female,Black,['DOMESTIC BATTERING - 3RD DEG']
+GARY DALE EDLEMON JR,Pulaski County Sheriff's Office,50,Male,White,[]
+DEREK ZELL EDWARDS,Pulaski County Sheriff's Office,22,Male,Black,"['CRIMINAL MISCHIEF 1ST DEGREE- PURPOSELY DAMAGES LT $1,000', 'RESIDENTIAL BURGLARY']"
+KELSY ZANE EDWARDS,Saline County Sheriff's Office,22,Female,White,['PROBATION VIOLATION']
+Stephen Thomas Edwards,White County Sheriff's Office,28,Male,Black,"['FAILURE TO APPEAR', 'Fail to Pay Fine', 'BATTERY - 1ST DEGREE / WITH PURPOSE OF CAUSING, CAUSES SERIOUS INJURY WITH A DEADLY WEAPON']"
+Marty Angelo Edwards Jr,Craighead County Sheriff's Office,32,Male,Black,"['DWI (UNLAWFUL ACT) (MISD)', 'Failure to Appear (Misd.)']"
+JAMES DAKOTA LAINE EDWARDS,Benton County Sheriff's Office,26,Male,White,"['THEFT OF PROPERTY', 'THEFT OF PROPERTY']"
+Paul Christopher Eddings,White County Sheriff's Office,48,Male,White,"['FAILURE TO APPEAR', 'Fail to Pay Fine']"
+THOMAS EDMOND,Poinsett County Sheriff's Office,23,Male,Black,['DOMESTIC BATTERING - 3RD DEGREE / PURPOS']
+Elijah Tai Edwards,Boone County Sheriff's Office,44,Male,White,[]
+JASON ANTHONY EDWARDS,Carroll County Sheriff's Office,37,Male,White,"['POSSESSION', 'POSSESSION OF DRUG PARAFELONY', 'FICTITIOUS VEHICLE LICREG', 'OPERATING UNSAFE VEHICLE', 'RECKLESS DRIVING', 'NO PROOF OF LIABILITY INSURANCE', 'RESISTING ARREST', 'NO VEHREG LIC PLATES 1ST OFFENSE', 'THEFT', 'WHITE WARRANTPAROLE']"
+TREVAN D'VAUGHN EGGERT,Carroll County Sheriff's Office,24,Male,White,['COURT COMMITMENT']
+HOUSTON TYLER EILAND,Union County Sheriff's Office,30,Male,White,"['FAILURE TO APPEARMISD', 'FAILURE TO APPEARMISD M UCR 90Z', 'DETAINER HOLD FOR OTHER AGENCY']"
+CORY DAVID ELLING,Baxter County Sheriff's Office,34,Male,White,"['DRIVING WHILE LICENSE SUSP OR REV NON DW', 'NO PROOF LIABILITY INSURANCE', 'DRUG PARAPHERNALIA POSSESSION OF', 'POSS CONT SUBST SIMPLE POSS MISD', 'POSS CONT SUBST SIMPLE POSS FELONY']"
+BRENT ELLIS,Conway County Sheriff's Office,41,Male,White,"['RESISTING ARREST', 'DISORDERLY CONDUCT']"
+ANA ELLIS,Conway County Sheriff's Office,25,Female,White,['FAILURE TO APPEAR']
+JOHN ELLIS,Ashley County Sheriff's Office,27,Male,Black,"['POSSESSION OF FIREARMS BY CERTAIN PERSONS', 'BATTERY IN THE SECOND DEGREE']"
+Anthony Floyd Elkins,Sebastian County Sheriff's Department,44,Male,White,"['Failure to Appear - Class A Misdemeanor*', 'Possession of Controlled Substance - Schedule I/II Felony &lt;2g*', 'Possession of Drug Paraphernalia - Store or Conceal - Meth/Cocaine*']"
+JILLIAN FAYE ELLIS,Greene County Sheriff's Office,36,Female,White,"['FAILURE TO APPEAR (M) - INCLUDE WARRANT #', 'REVOCATION OF PROBATION(F) - INCLUDE WARRANT #']"
+Derek Ellis,Crittenden County Sheriff's Office,51,Male,Black,"['POSSESSION OF METH OR COCAINE PURPOSE TO DELIVER GT 2GM BUT LT 10GM', 'CRIMINAL TRESPASS IN OR ON A VEHICLE OR STRUCTURE / PREMISES']"
+ELLIOT HOLLISTER,Pulaski County Sheriff's Office,30,Male,Black,"['AGGRAVATED ROBBERY', 'FLEEING', 'FLIGHT-ESCAPE (FLEEING ON FOOT)', 'REFUSAL TO SUBMIT TO ARREST', 'THEFT OF PROPERTY', 'THEFT OF PROPERTY OBTAINED BY THREAT OF SERIOUS PHYSICAL INJURY']"
+ORLANDOS TORVELL EMBRY JR,Pulaski County Sheriff's Office,25,Male,Black,[]
+EMERSON ABRANAN QUINTANILLA ORELLANA,Pulaski County Sheriff's Office,23,Male,White,['TERRORISTIC THREATENING - 1ST DEGREE / THREATENS PHYSICAL INJURY OR PROPERTY DAMAGE']
+JASON DUANE EMERY,Carroll County Sheriff's Office,44,Male,White,['ARKANSAS STATE PRISON TRUSTEE']
+DENNIS KEVIN ENDEL,Union County Sheriff's Office,39,Male,White,['NON SUPPORT BODY ATTACHMENT']
+SHANE EVERETT ENNIS,Benton County Sheriff's Office,40,Male,White,"['POSS CONT SUBS METH/COCA 2G OR MORE BUT LT 10G', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F']"
+DONALD GENE EPLEY,Carroll County Sheriff's Office,49,Male,White,['AGGRAVATED ASSAULT ON A FAMHOUSEHOLD ME']
+Kyle R EPPERSON,White County Sheriff's Office,46,Male,White,['Commitment']
+SHANE PARNELL EPLEY,Greene County Sheriff's Office,53,Male,White,"['ROBBERY', 'WHITE WARRANT']"
+MICHAEL J ERVIN,Pulaski County Sheriff's Office,42,Male,Black,"['AGGRAVATED ASSAULT ON FAMILY/HOUSEHOLD MEMBER', 'DOMESTIC BATTERING - 3RD DEG', 'INTERFERENCE W/EMERG COMMUNICATION 1ST DEGREE', 'INTERFERENCE WITH EMERGENCY COMMUNICATION 1ST']"
+GREGORY DOCKERY,Pulaski County Sheriff's Office,65,Male,Black,"['POSS CONT SUB SCH 6, LT 4 OZ', 'POSS DRUG PARAPHERNALIA', 'RAPE']"
+MARY MARGARET ESTES,Benton County Sheriff's Office,27,Female,White,['DOMESTIC BATTERING - 3RD DEG (CLASS A MISDEMEANOR)']
+MARK M ESKRIDGE,Pulaski County Sheriff's Office,41,Male,Black,['AGGRAVATED ASSAULT']
+CLAYTON ROBERT KEITH-ESTES,Garland County Sheriff's Department,49,Male,White,"['FAILURE TO APPEAR', 'PROBATION VIOLATION']"
+WALTER GLENN ETTERS,Lonoke County Sheriff's Office,32,Male,White,['ABSCONDING']
+JOHNNIE R ETHRIDGE,Benton County Sheriff's Office,50,Male,White,"['DOMESTIC BATTERING - 3RD DEG (CLASS A MISDEMEANOR)', 'DOMESTIC BATTERING - 3RD DEG (CLASS A MISDEMEANOR)', 'CRIMINAL MISCHIEF 1ST DEGREE-DAMAGES FOR COLLECTING INSURANCE $1,000 OR LESS', 'FALSE IMPRISONMENT - 2ND DEGREE / INTERFERES WITH ANOTHER PERSONS LIBERTY', 'FALSE IMPRISONMENT - 2ND DEGREE / INTERFERES WITH ANOTHER PERSONS LIBERTY', 'REVOCATION OF PROBATION/PAROLE']"
+BRADLEY RAY ETHEREDGE,Carroll County Sheriff's Office,32,Male,White,"['REVOCATION', 'FAILURE TO APPEARMISD']"
+JESSICA CAROL EUBANKS,Benton County Sheriff's Office,34,Female,White,"['POSS CONT SUB SCH 6, LT 4 OZ']"
+Raine Raeann Everett,Craighead County Sheriff's Office,22,Female,White,['Failure to Appear (Class C)']
+SARAH LOUISE EVANS,Crawford County Sheriff’s Department,37,Female,White,['PUBLIC INTOXICATION - DRINKING IN PUBLIC']
+JEFFERY WILLIAM EVANS,Scott County Sheriff,44,Male,White,[]
+Ian Hurbert Evans,Sebastian County Sheriff's Department,25,Male,White,"['Contempt-willful disobedience (Failure to Pay Fine)*', 'Possession of Controlled Substance - Schedule I/II Felony &lt;2g*', 'Possession of Drug Paraphernalia - Misdemeanor', 'Parole Violation*']"
+MARSHA ANN EVERETT,Randolph County Sheriff's Office,50,Female,White,['DISORDERLY CONDUCT']
+James Edward Evans Jr,Calhoun County Sheriff's Office,51,Male,White,['FAILURE TO APPEAR']
+Christopher Antonio Evans,Craighead County Sheriff's Office,38,Male,Black,"['POSSESSION OF DRUG PARAPHERNALIA (FELONY)', 'PAROLE VIOLATION']"
+JESSE GRISHAM EVERETT,Pulaski County Sheriff's Office,32,Male,White,['DOMESTIC BATTERING - 2ND DEG']
+JAMES EDWARD EVANS III,Pulaski County Sheriff's Office,28,Male,Black,"['CRIMINAL TRESPASS', 'DISORDERLY CONDUCT', 'OBSTRUCTING GOVERNMENTAL OPERATION/CLASS C', 'PUBLIC INTOXICATION', 'REFUSAL TO SUBMIT TO ARREST', 'THEFT OF PROPERTY']"
+WILLIAM JAEVAN EVANS,Benton County Sheriff's Office,41,Male,White,"['RESIDENTIAL BURGLARY', 'AGGRAVATED ASSAULT', 'TERRORISTIC THREATENING - 1ST DEGREE / THREATENS PHYSICAL INJURY OR PROPERTY DAMAGE']"
+LAURA ANN EVANS,Carroll County Sheriff's Office,44,Female,White,['COURT COMMITMENT']
+TABITHA JOANNA CLEVELAND,Benton County Sheriff's Office,61,Female,White,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'REVOCATION OF PROBATION/PAROLE']"
+JOSHUA FARMER,Cross County Sheriff's Office,33,Male,White,['CID HOLD']
+JUSTIN PAUL FAULK,Benton County Sheriff's Office,36,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+JERRY WAYNE FANT,Montgomery County Sheriff's Office,35,Male,White,['FAILURE TO APPEAR']
+BENJAMIN JAMES CHRISTIANSEN,Benton County Sheriff's Office,40,Male,White,"['POSS CONT SUBS METH/COCA 10G OR MORE BUT LT 200G', 'POSSESSION OF FIREARM BY CERTAIN PERSONS']"
+CHARLES EUGENE FERRIS,Benton County Sheriff's Office,53,Male,White,"['AGGRAVATED CRUELTY TO DOG CAT OR HORSE', 'REVOCATION OF PROBATION/PAROLE']"
+TERRA FAITH SMITH,Benton County Sheriff's Office,43,Female,White,"['FAILURE TO APPEAR', 'FAIL TO APPEAR ON FELONY']"
+DAVID FENTRY JR,Pulaski County Sheriff's Office,27,Male,Black,[]
+RACHEL MARIE FERGUSON,Sharp County Sheriff's Office,65,Female,White,['Aggravated Assault (0047 (D)F)']
+VICTOR DANIEL FERNANDEZ,Sebastian County Sheriff's Department,24,Male,Unknown,"['Failure to Appear - Class C Felony*', 'Failure to Appear - Class A Misdemeanor*', 'Failure to Appear - Class A Misdemeanor*', 'Parole Violation*', 'Absconding *', 'Fleeing -On Foot-Misd*', 'Violation of a Protection Order Felony*']"
+DAVID LAEL FELTNER,Pope County Sheriff's Office,45,Male,White,['CIRCUIT COURT COMMITMENT']
+FELICIA LATTICE MURRAY,Garland County Sheriff's Department,35,Female,Black,"['2 X ENDANGERING WELFARE MINOR FIRST DEGR', 'FAILURE TO APPEAR', 'PAROLE HOLD']"
+Christopher Nathan Fisher,Sebastian County Sheriff's Department,52,Male,White,['Fugitive from Justice Out of State*']
+ANDREW ARTHUR FIELDING,Benton County Sheriff's Office,23,Male,White,"['DOMESTIC BATTERING - 2ND DEG', 'TERRORISTIC THREATENING - 1ST DEGREE / THREATENS PHYSICAL INJURY OR PROPERTY DAMAGE', 'FAILURE TO APPEAR']"
+KENNETH FIGUEROA-BORGES,Benton County Sheriff's Office,28,Male,Unknown,"['POSS CONT SUBS METH/COCA W/INTENT LT 2G', 'TAMPERING', 'FAIL TO APPEAR ON CLASS A MISDEMEANOR (FTA)', 'FAILURE TO APPEAR']"
+Carlos Roman Figueroa Santiago,Yell County Sheriff's Department,21,Male,White,[]
+PHILIP GLEN FIVEASH,Carroll County Sheriff's Office,34,Male,White,['HOLD FOR ARKANSAS DEPT OF CORRECTIONS']
+ELIZABETH FLOWER,Benton County Sheriff's Office,54,Female,Asian / Pacific Islander,"['PUBLIC INTOXICATION', 'IMPROPER LANE USE']"
+Sim Michael Flora,Craighead County Sheriff's Office,43,Male,White,['ASSAULT - 3RD DEGREE / CREATES APPREHENSION OF IMMINENT INJURY']
+JEFFREY CHARLES FLOWERS JR,Benton County Sheriff's Office,39,Male,White,"['FORGERY - 1ST DEGREE', 'FORGERY 2ND DEGREE', 'FINANCIAL IDENTITY FRAUD']"
+ANTONIO DESHAWN PETERSON,Pulaski County Sheriff's Office,42,Male,Black,['MISDEMEANOR COMMITMENT TO PCRDF']
+TABATHA LYNNE WINER,Garland County Sheriff's Department,40,Female,White,"['TRAFFICKING A CONTROLLED SUBSTANCE', 'POSSESSION OF DRUG PARAPHERNALIA', 'UNAUTHORIZED USE ANOTHER PERSON PROPERTY']"
+KEITH FLETCHER LINDSEY,Pulaski County Sheriff's Office,51,Male,Black,"['BATTERY - 1ST DEGREE', 'KIDNAPPING', 'RAPE']"
+HUGO CARENOMUNOZ,Garland County Sheriff's Department,37,Male,Unknown,"['PUBLIC INTOXICATION', 'RESISTING ARREST', 'BATTERY 2ND DEGREE ON LAW ENFORCEMENT OF']"
+Donnie Frank Foster,Franklin County Sheriff's Office,40,Male,White,['ABSCONDING']
+BYRON DESHAUN FOREMAN,Lonoke County Sheriff's Office,25,Male,Black,['FAIL TO APPEAR ON FELONY FTA F UCR']
+MIA FORDSON,Nevada County Sheriff's Office,23,Female,Black,['HOLD FOR HOT SPRINGS COUNTY']
+Kirkland R Foster,Crittenden County Sheriff's Office,48,Male,Black,['CRIMINAL TRESPASS IN OR ON A VEHICLE OR STRUCTURE / PREMISES']
+LEA MARIE FOX,Polk County Sheriff's Office,42,Female,White,"['PROBATION VIOLATION', 'VIOLATION OF A COURT ORDER']"
+MIA KILONDRA FORDSON,Hot Spring County Sheriff's Office,23,Female,Black,['BATTERY IN THE SECOND DEGREE']
+Rose Marie Foreman,Craighead County Sheriff's Office,52,Female,White,"['POSSESSION OF SCH IV OR V LT 28GM', 'Failure to Appear (Class C)']"
+JESSIE GLEN FOX,Crawford County Sheriff’s Department,26,Male,White,"['AGGRAVATED ASSAULT', 'ENDANGERING WELFARE OF MINOR-FIRST DEGREE', 'CRIMINAL MISCHIEF IN THE FIRST DEGREE', 'POSSESSION OF ACONTROLLED SUBSTANCE', 'POSSESSION OF DRUG PARAPHERNALIA', 'PUBLIC INTOXICATION - DRINKING IN PUBLIC', 'OPEN CONTAINER', 'DISORDERLY CONDUCT']"
+Roy Foust,Crittenden County Sheriff's Office,42,Male,White,"['DRIVING WHILE LICENSE CANCELLED,SUSPENDED,OR REVOKED NON DWI', 'FLEEING', 'POSS. OF FIREARM BY CERTAIN PERSONS', 'LITTER CONTROL ACT', 'RECKLESS DRIVING', 'FAILURE TO APPEAR-WARRANT', 'DROVE LEFT OF CENTER', 'TAMPERING WITH PHYSICAL EVIDENCE']"
+KENTERIYAS SHAKERION FORD,Mississippi County Sheriff's Office,24,Male,Black,['COMMITMENT']
+STEPHANIE LYNN FORD,Poinsett County Sheriff's Office,50,Female,White,"['ASSAULT ON A FAMILY MEMBER 3rd DEG', 'Violation of a No-Contact Order']"
+JULIE KATHLEEN FREEMAN,Pulaski County Sheriff's Office,53,Female,White,['MISDEMEANOR COMMITMENT TO PCRDF']
+JESSE LEE FOSTER,Carroll County Sheriff's Office,31,Male,White,"['REVOCATION', 'DRIVING ON SUSPDL DUE TO DWI', 'NO PROOF OF LIABILITY INSURANCE', 'FICTITIOUS VEHICLE LICREG', 'NO VEHREG LIC PLATES 1ST OFFENSE', 'FAILURE TO APPEARMISD', 'FAILURE TO APPEAR FEL']"
+MELENA JEAN CHEZEM,Pulaski County Sheriff's Office,45,Female,White,"['DEVL,POSS,MANU,ETC DRUG PARAPHERNALIA', 'FLEEING', 'FURNISHING, POSSESSING, OR USING PROHIBITED ARTICLES', 'POSS CONT SUB SCH 1,2 NOT METH/COCA 2G OR MORE BUT LT 28G', 'POSS CONT SUB SCH 6, LT 4 OZ', 'POSS CONT SUBS METH/COCA 2G OR MORE BUT LT 10G', 'POSS CONT SUBS SCH 4,5 LT 28G', 'POSS CTRL/CNFT SUB WO PRESC-1ST OFF', 'POSS DRUG PARAPHERNALIA', 'POSSESS SCH 6 W/INTENT LT 14G', 'THEFT OF PROPERTY']"
+Brady Kyle French,Jackson County Sheriff's Office,34,Male,White,"['FAILURE TO APPEAR', 'FURNISHING PROHIBITED ARTICLES']"
+JUSTIN JAMES-ROOSEVEL FRANKLIN,Miller County Sheriff's Office,21,Male,Black,"['PET FOR REVOCATION', 'FTA']"
+SIRCHARLES MATHEW FRANCKE,Van Buren County Sheriff's Office,37,Male,White,"['POSS CONT SUB METH 2G', 'POSSESSOPN OF DRUG PARAPHERNALIA', 'DRUGS SIMPLE POSSESSION FELONY F UCR']"
+MICHAEL BRYLLE FRANKLIN,Little River County Sheriff's Office,30,Male,Asian / Pacific Islander,['POSSESSION OF CONTROLLED SUBSTANCE SCHED I/II &lt;2G']
+MATTHEW HENRY FRIDAY,Miller County Sheriff's Office,35,Male,White,"['PET FOR REVOCATION', 'PET FOR REVOCATION', 'POSS CONT SUB I, II METH/COCA &lt;2G']"
+SANDY LEE GARCIA,Benton County Sheriff's Office,48,Female,White,['CONTEMPT OF COURT FOR FAILURE TO COMPLY WITH COURT ORDER FTC']
+EVERETT DEWAYNE FRAZIER,Carroll County Sheriff's Office,56,Male,White,"['SHOPLIFTING', 'POSSESSION', 'HOLD FOR OTHER AGENCY', 'FAILURE TO APPEARMISD']"
+JEWEL ANN FRY,Lawrence County Sheriff's Office,41,Male,Unknown,['FAILURE TO APPEAR']
+DANA FREE,Faulkner County Sheriff's Office,50,Female,White,['-- ASSAULT ST DEGREE-FAMILY OR HOUSEHOLD']
+STEPHANIE ALESHIA FRANCIS,Garland County Sheriff's Department,32,Female,Black,"['PROBATION VIOLATION', 'OBSTRUCTING GOVERNMENTAL OPERATIONS']"
+BRANDON A FRYE,Benton County Sheriff's Office,29,Male,White,"['POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'CARRYING A WEAPON', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+JUDITH LEE FRANCIS DOOLEY,Sebastian County Sheriff's Department,41,Female,White,"['Theft of Property &lt;$1k*', 'Absconding *', 'Parole Violation*', 'ADC Commitment Hold']"
+AMY MICHELLE COLE,Benton County Sheriff's Office,38,Female,White,"['FAIL TO APPEAR ON FELONY', 'FAIL TO APPEAR ON CLASS B MISDEMEANOR (FTA)', 'REVOCATION OF PROBATION/PAROLE', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'FAILURE TO APPEAR']"
+JAMES EDWARD GRUNDON,Garland County Sheriff's Department,47,Male,Black,"['FAILURE TO APPEAR', 'PAROLE HOLD', 'PUBLIC INTOX/CRIMINAL MISCHIEF']"
+ROY CASTENEDA UGARTECHEA,Garland County Sheriff's Department,45,Male,Unknown,"['PROBATION VIOLATION', 'PROBATION VIOLATION', 'POSSESSION OF A CONTROLLED SUBSTANCE', 'POSSESSION OF DRUG PARAPHERNALIA', 'POSSESSION OF A CONTROLLED SUBSTANCE', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+GARY ROY FREITAS,Carroll County Sheriff's Office,46,Male,White,['STALKING']
+JONNY MARTIN FUNES-MENDOZA,Faulkner County Sheriff's Office,33,Male,Unknown,"['-- AGGRAVATED ASSAULT ON A FAMILY OR HOUSE', '-- ASSAULT ST DEGREE-FAMILY OR HOUSEHOLD', '-- TAMPERING WITH PHYSICAL EVIDENCE SUPPR']"
+CITLALLI GARCIA,Benton County Sheriff's Office,19,Female,White,"['ROBBERY', 'CONTEMPT OF COURT FOR FAILURE TO COMPLY WITH COURT ORDER FTC']"
+GARY GALE,Mississippi County Sheriff's Office,26,Male,Black,['COMMITMENT']
+JOHN PAUL GARATE,Howard County Sheriff's Office,20,Male,Unknown,"['CRIM. TRESPASS', 'INDECENT EXPOSURE', 'HARASSMENT', 'FLEEING']"
+MELISSA SUE GANYON,Pope County Sheriff's Office,24,Female,White,"['POSS CONT SUB', 'FAIL TO APPEAR', 'FTA REVOCATION HEARING', 'OBSTRUCTING GOVERNMENTAL OPERATIONS', 'FAIL TO PAY FINE OR COSTS FTPTP']"
+JOSHUA CRAIG GANDY,Poinsett County Sheriff's Office,26,Male,White,"['Domestic Battery 3rd Deg', 'Violation of a No-Contact Order']"
+DANNY RAY GARRETT,Garland County Sheriff's Department,60,Male,Black,['CONTEMPT OF COURT']
+PHILLIP GANN,Logan County Sheriff's Office,39,Male,White,['POSSESSION OF FIREARM BY CERTAIN PERSONS']
+BRADFORD DEWANE GARNER,Miller County Sheriff's Office,48,Male,White,"['PET FOR REVOCATION', 'PET FOR REVOCATION']"
+DONNA JEANNE GATES,Greene County Sheriff's Office,61,Female,White,['DOMESTIC BATTERY - 2ND DEGREE']
+RACHEL LYNN GARRETT,Pulaski County Sheriff's Office,25,Female,White,"['LEFT SCENE OF ACCIDENT/PROPERY DAMAGE', 'POSSESS SCH 4,5 W/INTENT GT 400G BUT LT 800G']"
+CHRISTIAN MITCHELL GARRETSON,Crawford County Sheriff’s Department,25,Male,White,[]
+Priscilla Latrice Gaines,Crittenden County Sheriff's Office,30,Female,Black,"['BATTERY - 2ND DEGREE / INJURE POLICE, FIRE, CODE ENFORCE, CORRECTIONAL IN LINE OF DUTY', 'DISORDERLY CONDUCT']"
+MEGAN LYN GAITHER,Sebastian County Sheriff's Department,38,Female,White,"['Petition to Revoke - Felony *', 'Contempt-willful disobedience (Failure to Pay Fine)*', 'Obstructing Governmental Operations-ID*']"
+CHRISTIAN GALDAMEZ-DEPAZ,Benton County Sheriff's Office,33,Male,Unknown,"['SEXUAL ASSAULT - 2ND DEGREE', 'SEXUAL ASSAULT - 2ND DEGREE', 'AGGRAVATED ASSAULT ON FAMILY/HOUSEHOLD MEMBER', 'AGGRAVATED ASSAULT ON FAMILY/HOUSEHOLD MEMBER', 'REVOCATION OF PROBATION/PAROLE']"
+GARY GARRIS,Independence County Sheriff's Office,41,Male,White,['REVOCATION MISD']
+COREE M GARMAN M,Pulaski County Sheriff's Office,39,Male,Black,[]
+Christopher Andrew Gaydos,White County Sheriff's Office,43,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'Fail to Pay Fine']"
+JAMES RICHARD GAITHER,Arkansas County Sheriff's Office,55,Male,Black,"['Failure to appear', 'Ex Parte Order of Protection']"
+JONITHAN WALLACE BOWLES,Pulaski County Sheriff's Office,36,Male,White,"['FAIL TO APPEAR ON FELONY', 'FLEEING', 'FRAUDULENT USE OF CREDIT/DEBIT CARD)', 'MAINT DRUG PREM NEAR DRUG FREE ZONE', 'POSS CONT SUBS METH/COCA W/INTENT GT 10G BUT LT 200G', 'POSS DRUG PARAPHERNALIA', 'THEFT BY RECEIVING', 'THEFT BY RECEIVING (CREDIT/DEBIT CARD)', 'THEFT OF PROPERTY LE $1,000']"
+Angel De Jesus Garcia Mercado,Crittenden County Sheriff's Office,35,Male,White,"['CRIMINAL CONSPIRACY - CLASS A FELONY (GROUP A OFFENSES)', 'POSS. OF A SCHEDULE VI CONTROLLED SUBSTANCE WITH THE PURPOSE TO DELIVER - FELONY', 'DELIVERY OF SCH VI CONTROLLED SUBSTANCE']"
+JULIA NICOLE GATLIN,Carroll County Sheriff's Office,23,Female,White,"['HOLD FOR OTHER AGENCY', 'FAILURE TO APPEAR FEL', 'POSSESSION', 'POSSESSION', 'FURNISHING PROHIBITED ARTICLES', 'FAILURE TO APPEARMISD', 'WHITE WARRANTPAROLE']"
+COLTON HUDDLESTON,Benton County Sheriff's Office,33,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'AGGRAVATED ASSAULT ON FAMILY/HOUSEHOLD MEMBER', 'FAILURE TO APPEAR', 'AGGRAVATED ASSAULT', 'DOMESTIC BATTERING - 2ND DEG', 'AGGRAVATED ASSAULT ON FAMILY/HOUSEHOLD MEMBER', 'CHILD SUPPORT ENFORCEMENT - DISCLOSURE OF INFORMATION', 'FAILURE TO APPEAR']"
+ANTHONY TYLER MANRING,Benton County Sheriff's Office,25,Male,White,"['REVOCATION OF PROBATION/PAROLE', 'FAILURE TO APPEAR', 'POSS SCH I OR SCH II CONTR SUB THAT IS NOT\nMETH OR COCA W/PURPOSE TO DELIVER', 'FAILURE TO APPEAR', 'POSS DRUG PARAPHERNALIA PDP M', 'FAILURE TO APPEAR', 'POSSESSION OF A CONTROLLED SUBSTANCE (PCS)', 'CONTEMPT OF COURT FOR FAILURE TO PAY FINES FTP']"
+BRANDON GARRETT GERMAN,Benton County Sheriff's Office,34,Male,White,"['CRIMINAL CONTEMPT', 'FAIL TO APPEAR ON CLASS A MISDEMEANOR (FTA)', 'FAILURE TO APPEAR']"
+JENNIFER LEE FOREHAND,Crawford County Sheriff’s Department,55,Female,White,['FAILURE TO APPEAR']
+LIMON K GEORGE,Carroll County Sheriff's Office,52,Male,White,['TERRORISTIC THREATENING']
+GENE AVERNE SHORTER,Saline County Sheriff's Office,33,Male,Black,"['DOMESTIC BATTERING IN THE SECOND DEGREE - FELONY', 'TERRORISTIC THREATENING IN THE FIRST DEGREE - CLASS D - FELONY', 'OBSTRUCTING GOVERNMENTAL OPERATIONS - MISDEMEANOR', 'FAILURE TO APPEAR (FOR FELONY OFFENSE) - FELONY', 'FAILURE TO APPEAR (FOR MISDEMEANOR OFFENSE) - MISDEMEANOR']"
+ASHLEY JOANN GARDNER,Saline County Sheriff's Office,32,Female,White,"['POSSESS CONTROLLED SUBSTANCE SCH I, II', 'DELIVERY OF A CONTROLLED SUBSTANCE SCH I,II (NARCOTIC OR METHAMPHETAMINE) G', 'FAILURE TO APPEAR (FOR FELONY OFFENSE) - FELONY']"
+Blain Evan Gibbs,Craighead County Sheriff's Office,49,Male,White,['AGGRAVATED ASSAULT']
+ANTHONY GIPSON,Poinsett County Sheriff's Office,46,Male,Black,['ALIAS BENCH WARRANT']
+GARRETT GERALD GILBERT,Sebastian County Sheriff's Department,36,Male,White,"['Contempt-willful disobedience (Failure to Pay Fine)*', 'Contempt of Court--(child support), FTAS, FTRespond Subpoena, FTComply WCO-*']"
+DEWAYNE LAMON GIVENS,Pulaski County Sheriff's Office,38,Male,Black,[]
+JOSEPH EUGENE GIFFORD,Benton County Sheriff's Office,35,Male,White,"['POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'POSS CONT SUBS SCH 6, LT 4OZ', 'CONTEMPT OF COURT FOR FAILURE TO PAY FINES FTP', 'REVOCATION OF PROBATION/PAROLE']"
+Michael JASON GIPSON,Johnson County Sheriff's Office,49,Male,White,"['Petition for Revocation', 'POSSESSION OF METH OR COCAINE LT 2GM', 'VIOLATION OF PRE-TRIAL RELEASE']"
+KEVIN LAWRENCE GINGER,Pulaski County Sheriff's Office,26,Male,Black,[]
+ROBERT GILLARD,Lafayette County Sheriff's Office,49,Male,Black,"['AGGRAVATED ASSAULT', 'POSSESSION OF FIREARM BY CERTAIN PERSONS']"
+GERVARO GIX,Hot Spring County Sheriff's Office,33,Male,Black,['WARRANT']
+Justin Boyd Gipson,Sebastian County Sheriff's Department,46,Male,White,"['Absconding *', 'Parole Violation*', 'No liability Insurance*', 'Possession of Drug Paraphernalia - Ingest Meth/Cocaine*', 'Possession of [Schedule I/II Controlled Substance] with the Purpose to Deliver &gt;2g*', 'Furnishing a Prohibited Article-Correctional Facility*']"
+JASON RYAN GILBERT,Carroll County Sheriff's Office,42,Male,White,['ARKANSAS STATE PRISON TRUSTEE']
+QUINTON MATTHEW GLOVER,Baxter County Sheriff's Office,36,Male,White,"['PUBLIC INTOXICATION', 'DISORDERLY CONDUCT', 'PROBATION VIOLATION M UCR']"
+ALIESHA ANN GLASS,Crawford County Sheriff’s Department,37,Female,White,[]
+BRANDON SCOTT GLOVER,Jefferson County Sheriff's Office,36,Male,Black,"['Forgery-FORGERY', 'THEFT OF PROPERTY / BUILDING', 'Absconder Warrant Parole/Probation']"
+HUNTER RYAN GLADDEN,Lonoke County Sheriff's Office,35,Male,White,"['FAIL TO APPEAR ON FELONY FTA', 'FAIL TO APPEAR ON UNCLASSIFIED MISDEMEAN']"
+JACKSON EARL GLOE,Benton County Sheriff's Office,20,Male,White,"['FAIL TO APPEAR', 'POSS DRUG PARAPHERNALIA PDP M', '3RD DEG ASSAULT FAMILY OR HOUSEHOLD MEMB']"
+WENDELL MARTIN GLASS,Izard County Sheriffs Office,44,Male,White,['SENTENCED JAIL TIME']
+COLTEN MILES GLOVER,Carroll County Sheriff's Office,32,Male,White,['HOLD FOR OTHER AGENCY']
+Kyle Glen Gore,White County Sheriff's Office,26,Male,White,['Commitment']
+SHANE ANTHONY GOFF,Benton County Sheriff's Office,34,Male,White,"['FAILURE TO APPEAR', 'REVOCATION OF PROBATION/PAROLE']"
+DAVID JOHN HAINES,Pulaski County Sheriff's Office,38,Male,White,"['FLEEING', 'THEFT BY RECEIVING- CLASS D FELONY']"
+BRENDA FAYE GOODNER,Crawford County Sheriff’s Department,55,Female,White,['FAILURE TO APPEAR']
+JESUS Luna GOMEZ,Pike County Sheriff's Office,24,Male,Unknown,['WARRANT']
+JUSTIN ALLEN GOSSETT,Miller County Sheriff's Office,35,Male,White,['PET FOR REVOCATION']
+BRANDY SHEREE GOSSETT,Miller County Sheriff's Office,38,Female,White,"['PAROLE VIOLATION', 'CONTEMPT']"
+KANE ALLEN GOTT,Izard County Sheriffs Office,21,Male,White,"[""DRIVING ON A SUSPENDED DRIVER'S LICENSE""]"
+ROBERT KELLY GORDY,Mississippi County Sheriff's Office,52,Male,White,"['POSSESSION CONTROLLED SUBSTANCE', 'VIOLATION OF A NO CONTACT ORDER', 'FAILURE TO APPEAR 2']"
+MARYAM A BALLARD,Pulaski County Sheriff's Office,46,Female,Black,"['DISORDERLY CONDUCT', 'PUBLIC INTOXICATION', 'TERRORISTIC THREATENING - 1ST DEGREE / THREATENS PHYSICAL INJURY OR PROPERTY DAMAGE']"
+PAUL LEE GORDON 2ND,Pulaski County Sheriff's Office,32,Male,White,"['AGGRAVATED ASSAULT ON FAMILY/HOUSEHOLD MEMBER', 'DOMESTIC BATTERING - 3RD DEG', 'POSSESSION OF FIREARM BY CERTAIN PERSONS', 'TERRORISTIC THREATENING - 1ST DEGREE (CLASS D FELONY)']"
+ESTEVAN ROCHA,Benton County Sheriff's Office,48,Male,White,['DOMESTIC BATTERING - 3RD DEG (CLASS A MISDEMEANOR)']
+Jimmy Greenwalt,White County Sheriff's Office,43,Male,White,"['Parole Violation', 'SIMULTANEOUS POSSESSION OF DRUGS AND FIREARMS', 'POSSESSION OF METH OR COCAINE PURPOSE TO DELIVER LT 2GM', 'POSSESSION OF SCH VI WITH PURPOSE TO DELIVERY', 'POSSESSION OF DRUG PARAPHERNALIA', 'POSSESSION OF FIREARM BY CERTAIN PERSONS']"
+Jimmy Greenawalt,White County Sheriff's Office,43,Male,White,['SIMULTANEOUS POSSESSION OF DRUGS AND FIREARMS']
+DAKWAN GREEN,Mississippi County Sheriff's Office,23,Male,Black,"['FAILURE TO APPEAR 2', 'FAILURE TO APPEAR 2', 'FAILURE TO APPEAR 2', 'FAILURE TO APPEAR 2', 'FAILURE TO APPEAR 2']"
+Larry Donall Griffin,Crittenden County Sheriff's Office,28,Male,Black,"['AGGRAVATED ASSAULT', 'AGGRAVATED ASSAULT ON A FAMILY OR HOUSEHOLD MEMBER']"
+GREGORY W LYNN JR.,Benton County Sheriff's Office,38,Male,White,"['FAIL TO APPEAR ON CLASS B MISDEMEANOR (FTA)', 'DRIVING VEHICLE WITH LICENSE OR REGISTRATION SUSPENDED OR REVOKED', 'REVOCATION OF PROBATION/PAROLE']"
+MICHAEL ALEXANDER GREEN,Miller County Sheriff's Office,26,Male,White,"['AGGRAVATED ASSAULT/FAMILY HOUSEHOLD MEMBER', 'OTHER PLEASE DESCRIBE IN NARRATIVE', '3RD DEG ASSAULT FAMILY OR HOUSEHOLD MEMB', 'DOMESTIC BATTERING 3RD']"
+JACKIE WARREN GREEN,Faulkner County Sheriff's Office,40,Male,Black,['--P PROBATION VIOLATION']
+Danielle ANNE GRAY,Johnson County Sheriff's Office,34,Female,White,"['FAILURE TO APPEAR', 'BENCH WARRANT', 'WHITE WARRANT']"
+AMANDA DIANNE GRAVES,Randolph County Sheriff's Office,39,Female,White,['Act 570']
+Michael Ray Griggs,White County Sheriff's Office,48,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+ROOSEVELT GRIFFIN SR,Pulaski County Sheriff's Office,62,Male,Black,"['BREAKING OR ENTERING / ARTICLES FROM VEHICLE', 'THEFT BY RECEIVING GE $25,000']"
+CASSANDRA D GREEN,Jefferson County Sheriff's Office,58,Female,Black,['Aggravated Assault-AGGRAVATED ASSAULT']
+CHARLES DELL JR GRISSOM,Miller County Sheriff's Office,53,Male,Black,"['PET FOR REVOCATION', 'THEFT BY RECEIVING']"
+Charles Aymond Greenlee,Cleburne County Sheriff's Office,36,Male,White,['Sentenced to Jail Time by Judge']
+Michael Devon Grate,Franklin County Sheriff's Office,31,Male,Black,['HOLD FOR ANOTHER AGENCIES']
+RONALD LEE GRIFFIN,Benton County Sheriff's Office,47,Male,White,"['REVOCATION OF PROBATION/PAROLE', 'POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F']"
+ANGIE MICHELLE DEAREN-COLE,Mississippi County Sheriff's Office,39,Female,White,"['PETITION FOR REVOCATION', 'PAROLE HOLD']"
+DREW ALLEN GRESHAM,Carroll County Sheriff's Office,30,Male,White,"['COURT COMMITMENT', 'COURT COMMITMENT', 'COURT COMMITMENT', 'COURT COMMITMENT']"
+AMY ELIZABETH BUNT,Garland County Sheriff's Department,46,Female,White,"['FAILURE TO APPEAR', 'CRIMINAL TRESPASS', 'BOND SURRENDER']"
+MISTY DAWN DUROSSETTE,Benton County Sheriff's Office,44,Female,White,"['FAILURE TO APPEAR', 'POSSESSION OF A CONTROLLED SUBSTANCE (PCS)', 'FAILURE TO APPEAR']"
+JACOB DANIEL GRUNWALD,Carroll County Sheriff's Office,45,Male,White,['COURT COMMITMENT']
+MARY MARGARET ESTES,Benton County Sheriff's Office,27,Female,White,['DOMESTIC BATTERING - 3RD DEG (CLASS A MISDEMEANOR)']
+ROBERT GUTHRIE,Cross County Sheriff's Office,47,Male,White,[]
+Jeremy David Guillory,Craighead County Sheriff's Office,41,Male,White,['PAROLE VIOLATION']
+YURITZY T GUERRERO,Benton County Sheriff's Office,31,Female,White,['REVOCATION OF PROBATION/PAROLE']
+ASCENCION GUERRA,Benton County Sheriff's Office,42,Male,White,['VIOL OF OMNIBUS DWI ACT - 2ND OFFENSE']
+BRIAN GUPTILL,Fulton County Sheriffs Office,36,Male,White,[]
+ANDRE LUTHER CAIN,Garland County Sheriff's Department,54,Male,Black,"['DOMESTIC BATTERY 3RD DEGREE', 'ARSON', 'CRIMINAL IMPERSONATION 1ST DEGREE']"
+Ray Anthony Hawkins Jr,Craighead County Sheriff's Office,30,Male,Black,"['ASSISTING OTHER AGENCIES', 'ASSISTING OTHER AGENCIES', 'ASSISTING OTHER AGENCIES', 'ASSISTING OTHER AGENCIES']"
+ANITA KAYE HARDEN,Pulaski County Sheriff's Office,39,Female,Black,[]
+MELISSA HAMILTON,Benton County Sheriff's Office,51,Female,White,"['DOMESTIC BATTERING - 3RD DEG (CLASS A MISDEMEANOR)', 'DOMESTIC BATTERING - 3RD DEG (CLASS A MISDEMEANOR)', 'ENDANGERING WELFARE OF MINOR 3RD DEGREE', 'CRIMINAL TRESPASS', 'CRIMINAL TRESPASS']"
+ZACHARY ALEXANDER HAMEL,Faulkner County Sheriff's Office,29,Male,White,['---M FAIL TO APPEAR-MISD']
+DANIEL WAYNE HARMON,Poinsett County Sheriff's Office,44,Male,White,['PROBATION VIOLATION']
+Dawn Martel Hamilton,Craighead County Sheriff's Office,34,Male,Black,"['BURGLARY, RESIDENTIAL']"
+CHRISTOPHER LEE HALL,Greene County Sheriff's Office,30,Male,White,['DOMESTIC BATTERY - 2ND DEGREE']
+Angela Denise Hays,Craighead County Sheriff's Office,43,Female,White,['BREAKING AND ENTERING']
+BOBBY DEE HARRIS,Sebastian County Sheriff's Department,51,Male,White,['Failure to Appear - Class C Felony*']
+Mason Christopher Haley,Cleburne County Sheriff's Office,20,Male,White,"['PROBATION REVOCATION', 'POSSESSION OF FIREARM BY CERTAIN PERSONS', 'POSSESSION OF DRUG PARAPHERNALIA', 'EXPIRED TAGS', 'POSSESSION OF SCH IV OR V LT 28GM', 'NO PROOF OF INSURANCE']"
+CHRISTINA MARIE LAMBERT,Garland County Sheriff's Department,41,Female,White,"['POSSESSION OF A CONTROLLED SUBSTANCE', 'POSSESSION OF DRUG PARAPHERNALIA ( 2 COU', 'FAILURE TO APPEAR']"
+WILLIAM ISAAC HARRIS,Faulkner County Sheriff's Office,29,Male,Black,['-- VIOLATION OF OMNIBUS DWI ACT']
+EDDIE GENE HARRIS,Pulaski County Sheriff's Office,34,Male,Black,"['FAIL TO APPEAR ON UNCLASSIFED MISDEMEANOR (FTA)', 'FAILURE TO PAY FINE CONTEMPT', 'PROBATION REVOCATION', 'PUBLIC INTOXICATION', 'RESISTING ARREST- REFUSAL TO SUBMIT TO ARREST', 'VIOLATION OF A PROTECTION ORDER']"
+KHIRY DEWAYNE HART,Clark County Sheriff's Department,31,Male,Black,"['Theft by Receiving', 'Fictious Tags', 'Driver of a motor vehicle failure to reg', 'DRIVING ON SUSPENDED', 'DRIVING LEFT OF CENTER 27-51-301 VU']"
+DAVID JOHN HAINES,Pulaski County Sheriff's Office,38,Male,White,"['FLEEING', 'THEFT BY RECEIVING- CLASS D FELONY']"
+LAMARIO DESHAUN HARPER,Miller County Sheriff's Office,26,Male,Black,['PET FOR REVOCATION']
+AMBER HAWTHORN,Nevada County Sheriff's Office,31,Female,White,['HOLD FOR MALVER PD']
+AMBER MARIE HAWTHORN,Hot Spring County Sheriff's Office,31,Female,White,"['BURGLARY', 'POSSESSION', 'CRIMINAL MISCHIEF']"
+NICOLE HANNEY,Pike County Sheriff's Office,33,Female,White,['WARRANT']
+Martena Corrine Hamilton,Craighead County Sheriff's Office,33,Female,Black,"['DOMESTIC BATTERING - 2ND DEGREE / PHYSICAL INJURY', 'DISORDERLY CONDUCT']"
+SHAINA KATHLEEN HARP,Crawford County Sheriff’s Department,27,Female,White,['FAILURE TO APPEAR']
+MATTHEW CHARLES HARRIS,Saline County Sheriff's Office,33,Male,White,"['DOMESTIC BATTERING IN THE THIRD DEGREE - MISDEMEANOR', 'HARASSING COMMUNICATIONS - MISDEMEANOR']"
+CHARLES R HALL,Faulkner County Sheriff's Office,37,Male,White,"['-- POSSESSION OF CONTROLLED SUBSTANCE', '-- POSS DRUG PARAPHERNALIA', '--F FAIL TO APPEAR - FELONY']"
+JORDAN RODNEY HAMPTON,Pulaski County Sheriff's Office,33,Male,White,[]
+James Earl Harris,White County Sheriff's Office,34,Male,White,"['ADC/DCC COMMITMENT', 'SEXUAL ASSAULT - 1ST DEGREE', 'SEXUAL ASSAULT - 1ST DEGREE']"
+RASHAAN HARDING,Poinsett County Sheriff's Office,24,Male,Black,"['POSSESSION OF SCH IV OR V LT 28GM', 'POSSESSION OF SCH VI LT 4OZ', 'HOLD FOR OTHER COUNTY/CITY']"
+JAMES HAWKINS,Benton County Sheriff's Office,36,Male,White,['REVOCATION OF PROBATION/PAROLE']
+BOBBIE LEE HARRIS,Saline County Sheriff's Office,30,Male,White,"['FAILURE TO APPEAR (FOR MISDEMEANOR OFFENSE) - MISDEMEANOR', 'FAILURE TO APPEAR (FOR MISDEMEANOR OFFENSE) - MISDEMEANOR', 'PROBATION VIOLATION-FELONY']"
+BRIAN DAVID HARDAWAY,Stone County Sheriff's Office,51,Male,White,['WARRANT ABSCOUNDING F UCR']
+ADAM HALL,Logan County Sheriff's Office,45,Male,White,['BODY ATTACHMENT']
+William Lee Halton,Franklin County Sheriff's Office,31,Male,White,"['PROBATION VIOLATION', 'SENTENCED TO DAYS']"
+AUSTIN C HARRISON,Union County Sheriff's Office,29,Male,White,"['BACK FROM PRISON FOR COURT', 'THEFT OF SCRAP METAL', 'FAILURE TO APPEARMISD', 'DETAINER HOLD FOR OTHER AGENCY', 'CRIMINAL TRESPASS PREMISES M UCR 9']"
+ALEXANDER HAMEL,Chicot County Sheriff's Office,30,Male,White,[]
+Jimmy E. HALE Jr,White County Sheriff's Office,36,Male,White,"['HARASSING COMMUNICATIONS / TELEPHONE, TELEGRAPH, MAIL, OR ANY WRITTEN FORM', 'FAILURE TO APPEAR']"
+BENJAMIN BRYAN HALE,Randolph County Sheriff's Office,32,Male,Unknown,['Revocation of Probation']
+JEFFERY HAGER,Hot Spring County Sheriff's Office,26,Male,White,[]
+IAN GREGORY HAGENAH,Garland County Sheriff's Department,41,Male,White,['FAILURE TO APPEAR']
+CHRISTOPHER HAYES,Faulkner County Sheriff's Office,48,Male,White,[]
+JEREMY TODD HALEY,Faulkner County Sheriff's Office,30,Male,White,"['-- POSSESSION OF CONTROLLED SUBSTANCE', '-- POSS DRUG PARAPHERNALIA', '-- FAILURE TO KEEP RECORDS ETC - DRUGS']"
+TERRIAL HAMPTON,Saline County Sheriff's Office,46,Male,Black,['HOLD FOR JUDGE']
+BOADY JAMES HATLEY,Carroll County Sheriff's Office,30,Male,White,"['FAILURE TO APPEARMISD', 'CONTEMPT OF COURT', 'FAILURE TO APPEARMISD']"
+MELISSA DIANE HARTT,Sebastian County Sheriff's Department,38,Female,White,"['Obstructing Governmental Operations-ID*', 'Possession Drug Paraphernalia - Felony', 'Possession of Controlled Substance - Schedule I/II Felony &lt;2g*', 'Possession of Controlled Substance - Schedule VI Misdemeanor &lt;4oz*', 'Failure to Appear - Class C Felony*', 'Parole Violation*']"
+DOMINIQUE HARRIS,Pulaski County Sheriff's Office,27,Female,Black,['DOMESTIC BATTERING - 2ND DEG']
+TERRY BRANDON HACKER,Garland County Sheriff's Department,34,Male,White,"['FAILURE TO APPEAR', 'OBSTRUCTING GOVERNMENTAL OPERATIONS', 'FAILURE TO APPEAR']"
+Roy Maurice Harris,Crittenden County Sheriff's Office,33,Male,Black,"['FAILURE TO PAY FINE/COST-WARRANT', 'FAILURE TO COMPLY', 'BATTERY - 2nd DEGREE', 'TERRORISTIC ACT', 'BATTERY - 2nd DEGREE']"
+VALDEZ EZELL HALL,Ouachita County Sheriff's Office,47,Male,Black,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'HOLD FOR OTHER DEPT']"
+Jessie Lee Hale,Crittenden County Sheriff's Office,34,Male,Black,"['POSS. OF METHAMPHETAMINE OR COCAINE WITH THE PURPOSE TO DELIVER', 'POSS. OF A SCHEDULE VI CONTROLLED SUBSTANCE WITH THE PURPOSE TO DELIVER - FELONY', 'POSS. OF DRUG PARAPHERNALIA - FELONY', 'POSS. OF A CONTROLLED SUBSTANCE - MISDEMEANOR', ""NO DRIVER'S LICENSE"", 'NO TAIL LIGHT']"
+CARTUS HAWKINS,Conway County Sheriff's Office,38,Male,Black,"['PUBLIC INTOXICATION', 'DISORDERLY CONDUCT', 'RESISTING ARREST', 'PUBLIC INTOXICATION', 'CRIMINAL TRESPASS']"
+TIMOTHY WADE HOGG,Baxter County Sheriff's Office,49,Male,White,"['POSS METH OR COCAINE PURPOSE TO DELIVER', 'POSS DRUG PARAPHERNALIA FELONY', 'FICTICIOUS LICENSE PLATE', 'PAROLE VIOLATION']"
+QUINTIN DMARCUS HAYES,Carroll County Sheriff's Office,21,Male,Black,['FAILURE TO APPEAR FEL']
+ADAM JOSEPH JARMUSCH,Saline County Sheriff's Office,38,Male,White,['FAILURE TO APPEAR (FOR FELONY OFFENSE) - FELONY']
+MANDI LYN HANSON/ GOODMAN,Randolph County Sheriff's Office,46,Female,White,['revoke bond']
+JOSHUA ALAN HANNAFORD,Baxter County Sheriff's Office,38,Male,White,"['REVOCATION BENCH WARRANT', 'CONTEMPT OF COURT CIRCUIT COURT M UCR']"
+BELINDA NICOLE MYERS,Pulaski County Sheriff's Office,41,Female,White,[]
+ANDREW MICHAEL HERRON,Garland County Sheriff's Department,34,Male,White,"['PAROLE HOLD', 'OBSTRUCTING GOVERNMENTAL OPERATIONS']"
+CHANCEY HEAVRIN,Cross County Sheriff's Office,31,Male,White,"['CID HOLD', 'HOLD FOR OTHER AGENCY']"
+BOBBY EUGENE HEDRICK,Howard County Sheriff's Office,51,Male,White,['FAILURE TO APPEAR']
+JOHN WESLEY HERRING,Union County Sheriff's Office,31,Male,White,['PETITION TO REVOKE']
+JUWAN DIEGO MITCHELL,Garland County Sheriff's Department,31,Male,Black,['VIOLATION TERMS &amp; CONDITIONS OF SUSPENDE']
+JIMMIE LEE HENDRIX Jr,Sebastian County Sheriff's Department,55,Male,White,"['Petition to Revoke - Felony *', 'ADC Commitment Hold', 'Return To Testify*']"
+Chad Wane Henry,Boone County Sheriff's Office,47,Male,White,[]
+CHARLES EARL HEARD,Union County Sheriff's Office,51,Male,Black,['BACK FROM PRISON FOR COURT']
+SHEILA M HERVEY,Union County Sheriff's Office,47,Female,Black,['DWI 3RD OFF M UCR 90D']
+REMY MARTELL HEGGS,Pulaski County Sheriff's Office,35,Male,Black,[]
+KEITH ADAM HERNANDEZ,Cross County Sheriff's Office,32,Male,Unknown,['FAILURE TO APPEAR']
+HAIROLD HENRY,Nevada County Sheriff's Office,27,Male,Black,['TERRORISTIC THREATENING']
+SERJIO HERNANDEZ,Howard County Sheriff's Office,26,Male,Unknown,['DOMESTIC BATTERY 3RD DEGRE']
+Joshua Adam Henderson,White County Sheriff's Office,40,Male,White,['FAILURE TO APPEAR']
+COREY JAMES HERN,Pulaski County Sheriff's Office,27,Male,White,"['BREAKING OR ENTERING', 'CRIMINAL MISCHIEF 1ST DEGREE-PURPOSELY DAMAGES MT $5,000 BUT LT $25,000', 'FLEEING - FELONY- VEHICLE OR CONVEYANCE - SUBSTANTIAL DANGER OF DEATH', 'FLIGHT-ESCAPE (FLEEING/FOOT-2ND W/I 1 YR', 'MISDEMEANOR COMMITMENT TO PCRDF', 'THEFT BY RECEIVING- CLASS D FELONY', 'THEFT BY RECEIVING GT $5,000 LT $25,000', 'THEFT OF PROPERTY &lt; $1,000']"
+JACKIE W HESLEP,Faulkner County Sheriff's Office,34,Male,White,"['-- FLEEING', '-- ALTERATION OF VEH LIC TAB', '--A CRIMINAL MISCHIEF-ND -', '-- FLEEING', '-- NO MOTORCYCLE LICENSE', '--B NO PROOF OF INS ND', '-- DISOBEY STOP SIGN', '-- POSSESSION OF CONTROLLED SUBSTANCE', '--A RESISTING ARREST', '--A IMPROPER PASSING', '--A SPEEDING -MPH MILE AFTER', '-- DRIVERS LICENSE REQUIRED']"
+Travis Rae Henderson,Newton County Sheriff's Office,31,Male,White,"['HOLD FOR PROBATION\\PAROLE', 'WHITE WARRANT\\PROBATION &amp; PAROLE']"
+JEREMY SCOTT HEINRICH,Benton County Sheriff's Office,29,Male,White,['FAILURE TO APPEAR']
+AUSTIN BRICE HELMS,Baxter County Sheriff's Office,21,Male,White,['HOLD FOR AR DEPT OF CORRECTIONS']
+Terry Lynn HENSON Jr,Craighead County Sheriff's Office,43,Male,White,"['BURGLARY, COMMERCIAL']"
+RANDALL WAYNE JR HELMS,Miller County Sheriff's Office,40,Male,White,"['PET FOR REVOCATION', 'HOLD FOR ANOTHER AGENCY']"
+CODY GRANVILLE BROOKS,Saline County Sheriff's Office,29,Male,White,"['KIDNAPPING CLASS B', 'RESIDENTIAL BURGLARY - FELONY', 'DOMESTIC BATTERY CLASS D', 'BATTERY IN THE THIRD DEGREE - CLASS C - MISDEMEANOR', 'PROBATION VIOLATION-FELONY']"
+JEFFREY ARIN HENDRICKSON,Carroll County Sheriff's Office,45,Male,White,"['FAILURE TO APPEARMISD', 'HOLD FOR OTHER AGENCY', 'REVOCATION']"
+KEILA DENISE WEAVER,Crawford County Sheriff’s Department,54,Female,White,"['POSSESSION OF ACONTROLLED SUBSTANCE', 'DOMESTIC BATTERING IN THE THIRD DEGREE']"
+TERRA FAITH SMITH,Benton County Sheriff's Office,43,Female,White,"['FAILURE TO APPEAR', 'FAIL TO APPEAR ON FELONY']"
+JUAN CARLOS HERNANDEZ,Carroll County Sheriff's Office,43,Male,White,['COURT COMMITMENT']
+JARVIS RAQUAL HILL,Pulaski County Sheriff's Office,29,Male,Black,[]
+ROBERT FRANKLIN HILL,Logan County Sheriff's Office,22,Male,White,"['OBSTRUCTING GOVERNMENTAL OPERATIONS', 'DISORDERLY CONDUCT']"
+STACEY LYNN VENABLE,Saline County Sheriff's Office,38,Female,White,['HOLD FOR COURT']
+JAMES WALTER HINCHEY,Cross County Sheriff's Office,51,Male,White,['DOMESTIC BATTERY 2ND DEGREE']
+RAYMOND MICHEAL HILL,St. Francis County Sheriff's Office,51,Male,White,['HOLD FOR ADC']
+DOMINIQUE HICKEY,Pulaski County Sheriff's Office,29,Male,Black,"['DOMESTIC BATTERING - 3RD DEG', 'VIOLATION OF A PROTECTION ORDER']"
+ALYSSA JODYN HILL,Sebastian County Sheriff's Department,27,Female,White,['Failure to Appear - Class C Felony*']
+SHAWN ALAN HILL,Benton County Sheriff's Office,58,Male,White,"['DELIVERY METH/COCA LT 2G', 'DELIVERY METH/COCA LT 2G', 'DISTRIBUTION OF CONTROLLED SUBSTANCE NEAR CERTAIN FACILITIES', 'DISTRIBUTION OF CONTROLLED SUBSTANCE NEAR CERTAIN FACILITIES']"
+RANDON JAMES HILLHOUSE,Carroll County Sheriff's Office,26,Male,White,"['PUBLIC INTOXICATION', 'WHITE WARRANTPROBATION']"
+TABITHA JOANNA CLEVELAND,Benton County Sheriff's Office,61,Female,White,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'REVOCATION OF PROBATION/PAROLE']"
+DAVID L JR HIGHT,Miller County Sheriff's Office,37,Male,White,"['DOMESTIC BATTERING 2ND', 'TERRORISTIC THREATENING 1ST DEGREE', 'UNAUTHORIZED USE OF VEHICLE', 'FTOCO', 'RAPE', 'RAPE', 'RAPE', 'RAPE', 'SEXUAL ASSAULT 2ND DEGREE']"
+CHARLES ALLEN HARVEY,Garland County Sheriff's Department,57,Male,White,"['POSSESSION OF METHAMPHETAMINE OR COCAINE', 'POSSESSION OF DRUG PARAPHERNALIA', 'PAROLE HOLD']"
+Max Baron Hoyt,Sebastian County Sheriff's Department,37,Male,White,['Failure to Appear - Class A Misdemeanor*']
+JIMMY HOLMES,Cross County Sheriff's Office,36,Male,Black,"['RESIDENTIAL BURGLARY', 'THEFT OF PROPERTY', 'THEFT OF PROPERTY X9', 'CRIMINAL MISCHIEF 1ST DEGREE']"
+TINA FAYE HOLLIS,Baxter County Sheriff's Office,41,Female,White,"['REVOCATION BENCH WARRANT', 'NON PAYMENT OF FINES MISD DISTRICT']"
+ANDREW Blake HOWELL,Pike County Sheriff's Office,27,Male,White,['FAILURE TO APPEAR']
+JILL RENAE HOLIMAN,Saline County Sheriff's Office,35,Female,White,['FAILURE TO APPEAR (FOR FELONY OFFENSE)']
+BRIAN DOUGLAS HOLTER,Grant County Sheriff's Office,49,Male,White,[]
+CHRISTINA MARIE LAMBERT,Garland County Sheriff's Department,41,Female,White,"['POSSESSION OF A CONTROLLED SUBSTANCE', 'POSSESSION OF DRUG PARAPHERNALIA ( 2 COU', 'FAILURE TO APPEAR']"
+David Tyler Holifield,White County Sheriff's Office,37,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'VIOLATION NO CONTACT ORDER']"
+JOHN ANTHONY HOLMES,Union County Sheriff's Office,49,Male,Black,"['AGGRAVATED ASSAULT ON A FAMILY OR HOUSEH', 'PAROLE VIOLATION F UCR']"
+CHERRIE ANN HOLDER,Saline County Sheriff's Office,43,Female,White,"['FAILURE TO APPEAR (FOR FELONY OFFENSE)', 'FAILURE TO APPEAR (FOR FELONY OFFENSE)']"
+Jordan Demar Hoard,Craighead County Sheriff's Office,25,Male,Black,"['POSSESSION OF SCH VI LT 4OZ', 'ASSISTING OTHER AGENCIES']"
+Jarvis Jurell Holmes,Crittenden County Sheriff's Office,27,Male,Black,['HOLD FOR ANOTHER AGENCY']
+RODERICK LAMONT HOLT,Union County Sheriff's Office,44,Male,Black,"['CRIMINAL MISCHIEF2NDRECKLESSLY DESTROY', 'FAIL TO APPEAR MISD', 'FLEEING']"
+Monica Renee Horton,White County Sheriff's Office,49,Female,White,['DOMESTIC BATTERY 3RD']
+DOUGLAS J HOUSTON,Pulaski County Sheriff's Office,33,Male,White,[]
+KASI LEIGHANNE HOOPER,Benton County Sheriff's Office,29,Female,American Indian/Alaska Native,"['REVOCATION OF PROBATION/PAROLE', 'FAILURE TO APPEAR']"
+KEVIN BENARD HODGES,Mississippi County Sheriff's Office,36,Male,Black,"['THEFT OF PROPERTY', 'FORGERY 1ST DEGREE', 'POSSESSION OF A CONTROLLED SUBSTANCE']"
+Calvin James House,Searcy County Sheriff's Office,45,Male,White,['POSSESSION OF METH OR COCAINE LT 2GM']
+JANET MARIE HOLT,Pope County Sheriff's Office,66,Female,White,"['PUBLIC INTOXICATION', 'PROBATION VIOLATION']"
+TREDRICK HOLT,Pulaski County Sheriff's Office,32,Male,Black,"['OBSTRUCTING GOVERNMENTAL OPERATION/CLASS C', 'POSS CONT SUB SCH 6, LT 4 OZ']"
+TANYA KAY HOTTINGER,Pope County Sheriff's Office,45,Female,White,"['FAIL TO APPEAR', 'DISTRICT COURT COMMITMENT']"
+Tracy Lynn Holcombe,Crittenden County Sheriff's Office,40,Female,White,"['POSSESSION OF METH OR COCAINE LT 2GM', 'POSS. OF DRUG PARAPHERNALIA - FELONY', 'FAILURE TO APPEAR-WARRANT']"
+TROY EDWARD HOWARD L-3,Crawford County Sheriff’s Department,85,Male,White,['FAILURE TO REGISTER - FAILURE TO COMPLY WITH REPORTING REQUIREMENTS']
+Larayne Howell-Kennedy,White County Sheriff's Office,38,Female,White,['ABSCONDING']
+ROBERT MICHAEL HOWARD,Saline County Sheriff's Office,54,Male,White,"['FAILURE TO APPEAR (FOR FELONY OFFENSE) - FELONY', 'POSSESS CONTROLLED SUBSTANCE SCH I, II', 'FAILURE TO APPEAR (FOR MISDEMEANOR OFFENSE) - MISDEMEANOR', 'FAILURE TO APPEAR (FOR FELONY OFFENSE) - FELONY']"
+ERICA R WESLEY,Pulaski County Sheriff's Office,39,Female,Black,[]
+GARRY PAUL HOLT,Poinsett County Sheriff's Office,43,Male,White,"['BENCH WARRANT FOR FAILURE TO APPEAR', 'Possession of controlled substance - Met', 'POSSESSION OF DRUG PARAPHEERNALIA', 'DRIVING ON A SUSPENDED']"
+KELLY RENEE HOLDER,Lonoke County Sheriff's Office,39,Female,Black,['DOMESTIC BATTERING 2ND DEG']
+TABATHA LYNNE WINER,Garland County Sheriff's Department,40,Female,White,"['TRAFFICKING A CONTROLLED SUBSTANCE', 'POSSESSION OF DRUG PARAPHERNALIA', 'UNAUTHORIZED USE ANOTHER PERSON PROPERTY']"
+JENNIFER DENISE JOHNSON,Benton County Sheriff's Office,47,Female,White,"['FLEEING', 'RECKLESS DRIVING']"
+LAH BWIE HTOO,Carroll County Sheriff's Office,29,Male,Asian / Pacific Islander,"['REVOCATION', 'ENDANGER WELFARE MINOR FIRST DEGREE', 'TERRORISTIC THREATENING', 'DOMESTIC BATTERING IN THE THIRD DEGREE', 'RESISTING ARREST', 'FAILURE TO APPEARMISD M UCR']"
+DE'ANGELO JOVAN LOV HUFFMAN,Pulaski County Sheriff's Office,32,Male,Black,"['CRIMINAL TRESPASS', 'POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'POSSESS DRUG PARAPHERNALIA METH COCAINE']"
+CHESTER PAUL HUTCHINS,Poinsett County Sheriff's Office,45,Male,White,['Commitment']
+AMBER LEIGH CHILDS,Garland County Sheriff's Department,49,Female,White,['COMMUNICATING FALSE ALARM']
+STEPHEN HUNT,Miller County Sheriff's Office,35,Male,,"['POSSESSION OF FIREARM BY CERTAIN PERSONS', 'POSSESSION INSTRUMENT OF CRIME', 'FLEEING (BY VEHICLE)', 'EXPIRED VEHICLE LICENSE']"
+TIMOTHY LUKE HUGGINS,Pope County Sheriff's Office,42,Male,White,"['POSS METH OR COCAINE WPURPOSE TO DEL', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+JAMES THURMAN HUGHES,Garland County Sheriff's Department,58,Male,White,"['FAILURE TO APPEAR', 'PAROLE HOLD', 'PAROLE HOLD', 'THEFT BY RECEIVING']"
+ANTONIO TERRELL HUBBARD,Pulaski County Sheriff's Office,29,Male,Black,[]
+CHRISTINA LYNN HUSKEY,Garland County Sheriff's Department,32,Female,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+RANDALL JUSTIN HUNT,Pulaski County Sheriff's Office,32,Male,White,[]
+AFAN ETORIA HUMPHREY,Pulaski County Sheriff's Office,23,Male,Black,[]
+JOE CHARLES HURT,Jefferson County Sheriff's Office,34,Male,White,['Possession of controlled substance with']
+ADRIAN CHASE HUNT,Ouachita County Sheriff's Office,29,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR', 'FAILURE TO PAY FINE']"
+Theresa Marie Hunter,Sebastian County Sheriff's Department,26,Female,White,"['Possession of Controlled Substance - Schedule I/II 2-28g Felony*', 'Possession Drug Paraphernalia - Felony', 'Contempt-willful disobedience (Failure to Pay Fine)*', 'Assist Outside Agency-Misd*']"
+BRANDY MARLENE SMITH,Pulaski County Sheriff's Office,43,Female,White,[]
+MINDY MICHELLE HUMPHREY,Greene County Sheriff's Office,41,Female,White,['PUBLIC INTOXICATION']
+JUSTIN RAY HUTCHISON,Carroll County Sheriff's Office,41,Male,White,"['FAILURE TO APPEARMISD M UCR', 'CONTEMPT OF COURT', 'HOLD FOR OTHER AGENCY']"
+REBECCA MARINE LOKEIJAK,Benton County Sheriff's Office,27,Female,White,"['FAILURE TO APPEAR', 'FAIL TO APPEAR ON CLASS B MISDEMEANOR (FTA)', 'FAILURE TO APPEAR']"
+AMY ELIZABETH BUNT,Garland County Sheriff's Department,46,Female,White,"['FAILURE TO APPEAR', 'CRIMINAL TRESPASS', 'BOND SURRENDER']"
+RIKKI NICOLE COLLIER,Pulaski County Sheriff's Office,31,Female,White,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'POSSESS DRUG PARAPHERNALIA METH COCAINE', 'PUBLIC INTOXICATION', 'THEFT BY RECEIVING (RECOVERY OF STOLEN VEHICLE)']"
+KENNETH JAMES HUTCHINSON,Carroll County Sheriff's Office,38,Male,White,"['REVOCATION', 'REVOCATION', 'FAILURE TO APPEAR FEL', 'BOND SURRENDER']"
+ASHLEY NICOLE HUNT,Carroll County Sheriff's Office,28,Female,White,"['CONTEMPT OF COURT', 'CONTEMPT OF COURT', 'FAILURE TO APPEARMISD', 'COURT COMMITMENT']"
+EMMILY SUE JOHNSON,Benton County Sheriff's Office,32,Female,White,"['FAILURE TO APPEAR', 'ENDANGERING WELFARE OF MINOR-1ST DEGREE', 'VIOL OF OMNIBUS DWI ACT - 1ST OFFENSE', 'DRIVING W SUSPEND/REVOKED LICENSE', 'REVOCATION OF PROBATION/PAROLE', 'FAILURE TO APPEAR', 'REVOCATION OF PROBATION/PAROLE']"
+TRAVIS ALLEN HYLTON,Benton County Sheriff's Office,44,Male,White,"['OBSTRUCTING GOVERNMENTAL OPERATIONS', '3RD DEG ASSAULT FAMILY OR HOUSEHOLD MEMB', 'REFUSAL TO SUBMIT TO ARREST (CLASS B MISD)']"
+IDALIOUS LOPEZ,Pope County Sheriff's Office,31,Male,Unknown,"['RAPE', 'ICE HOLD IMMIGRATION CUSTOMS ENRFORCEME']"
+JUSTIN LYNN CASE,Pulaski County Sheriff's Office,41,Male,White,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'THEFT BY RECEIVING- CLASS D FELONY', 'VIOLATION OF NO CONTACT ORDER']"
+ANTHONY INGRAM,Lafayette County Sheriff's Office,46,Male,White,['FAILURE TO APPEAR']
+BRUNOGAEL INIGUEZ OROZCO,Benton County Sheriff's Office,19,Male,White,"['AGGRAVATED ASSAULT', 'DRIVING UNDER INFLUENCE DRUGS', 'REFUSAL TO SUBMIT TO ARREST (CLASS B MISD)', 'IMPROPER LANE CHANGE', 'AGGRAVATED ASSAULT ON FAMILY/HOUSEHOLD MEMBER', '3RD DEG ASSAULT FAMILY OR HOUSEHOLD MEMB']"
+Devan Deshon Ivery Sr,Sebastian County Sheriff's Department,31,Male,Black,"['Parole Violation*', 'Absconding *', 'ADC Commitment Hold']"
+STEVEN HAROLD JACKSON,Greene County Sheriff's Office,59,Male,White,['REVOCATION OF PROBATION(F) - INCLUDE WARRANT #']
+DAVID ALLEN JACKSON,Saline County Sheriff's Office,50,Male,White,['CHILD SEX OFFENDER FAIL TO REGISTER']
+Trehvonte Lamar Jackson,Crittenden County Sheriff's Office,33,Male,Black,"['POSS. OF METHAMPHETAMINE OR COCAINE WITH THE PURPOSE TO DELIVER', 'FAILURE TO APPEAR-WARRANT']"
+BUDDY JAMES,Ashley County Sheriff's Office,40,Male,White,[]
+JAMES DOBLE,Benton County Sheriff's Office,59,Male,White,"['DOMESTIC BATTERING - 2ND DEG', 'DOMESTIC BATTERING - 2ND DEG']"
+Quesi Deonta James,Craighead County Sheriff's Office,39,Male,Black,"['THEFT $1,000 OR LESS - ALL OTHERS', 'PAROLE VIOLATION']"
+Jimmy Eugene JAMES,Craighead County Sheriff's Office,51,Male,White,"['POSSESSION OF METH OR COCAINE PURPOSE TO DELIVER GT 2GM BUT LT 10GM', 'PAROLE VIOLATION']"
+Jason Aaron Jackson,Jackson County Sheriff's Office,44,Male,White,"['BURGLARY, RESIDENTIAL']"
+Brian A James,White County Sheriff's Office,46,Male,White,['Out of State Warrant']
+BRANDON DOUGLAS JAMES,Garland County Sheriff's Department,18,Male,Black,"['POSSESSION OF A SCHEDULE VI CONTROLLED S', 'SIMULTANEOUS POSSESSION OF DRUGS AND FIR', 'UNAUTHORIZED USE ANOTHER PERSON PROPERTY', 'POSSESSION OF DRUG PARAPHERNALIA', 'DISTRIBUTION OF CONTROLLED SUBSTANCE NEA']"
+MATTHEW JAMES JACOB,Carroll County Sheriff's Office,47,Male,White,"['FAILURE TO APPEARMISD', 'CONTEMPT OF COURT', 'POSSESSION OF A CONTROLED SUB', 'TAMPERING W PHYSICAL EVIDENCE', 'FAILURE TO APPEARMISD', 'BOND SURRENDER']"
+PRINCESS WILSON,Pulaski County Sheriff's Office,34,Female,Black,"['CRIMINAL TRESPASS', 'FLIGHT-ESCAPE (FLEEING ON FOOT)', 'NONFINANCIAL IDENTITY FRAUD', 'OBSTRUCTING GOVERNMENTAL OPERATION/CLASS C', 'SHOPLIFTING']"
+BILLSON JABNIL,Carroll County Sheriff's Office,35,Male,Asian / Pacific Islander,"['COURT COMMITMENT', 'FAILURE TO APPEARMISD']"
+TABITHA JOANNA CLEVELAND,Benton County Sheriff's Office,61,Female,White,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'REVOCATION OF PROBATION/PAROLE']"
+BRITTANY SHETRECE CONLEY,Pulaski County Sheriff's Office,35,Female,Black,"['RESIDENTIAL BURGLARY', 'THEFT OF PROPERTY', 'THEFT OF PROPERTY &gt;=$1,000&lt;$5,000', 'VIOLATION OF A PROTECTION ORDER']"
+MICHAEL SHANE JENKINS,Lawrence County Sheriff's Office,41,Male,White,"['DWI 1 DC', 'DRIVING VEHICLE WITH LICENSE OR REGISTRA']"
+TYLEON JERMANY,Columbia County Sheriff's Office,28,Male,Black,"['FAILURE TO APPEAR MISD M UCR 90Z', 'FAILURE TO APPEAR MISD M UCR 90Z']"
+JOEL THOMAS JENKINS,Poinsett County Sheriff's Office,54,Male,White,['Fail to Register - Sex Offender']
+BRANDON BERNARD JENKINS,Crawford County Sheriff’s Department,32,Male,Black,[]
+ALLEN RAY JEFFCOAT,Crawford County Sheriff’s Department,44,Male,White,"['DELIVERY OF METH OR COCAINE', 'DELIVERY OF METH OR COCAINE']"
+DANIEL BREWER JEFFERY,Faulkner County Sheriff's Office,30,Male,White,"['--B RAPE-FORCIBLE FONDLING', '-- SEXUAL SOLICITATION OF A CHILD']"
+MERSADI BREAN JEROME,Faulkner County Sheriff's Office,22,Female,White,['FCSO SENTENCED TO FCSO THIS DATE']
+STEVEN RAY DELGADILLO,Saline County Sheriff's Office,50,Male,White,"['FAILURE TO APPEAR (FOR FELONY OFFENSE) - FELONY', 'FAILURE TO APPEAR (FOR MISDEMEANOR OFFENSE) - MISDEMEANOR', 'FAILURE TO APPEAR (FOR MISDEMEANOR OFFENSE) - MISDEMEANOR', 'FAILURE TO APPEAR (FOR MISDEMEANOR OFFENSE) - MISDEMEANOR']"
+GLENN JAMES JENNINGS 3RD,Pulaski County Sheriff's Office,24,Male,Black,"['POSSESSION OF FIREARM BY CERTAIN PERSONS', 'THEFT BY RECEIVING- CLASS D FELONY']"
+MORGAN SEDILLO,Benton County Sheriff's Office,24,Female,White,['POSSESSION OF A CONTROLLED SUBSTANCE (PCS)']
+COREY ANDRE JEFFERY SR Sr,Arkansas County Sheriff's Office,45,Male,Black,"['Attempted Capital Murder', 'Capital Murder']"
+Luis Jimenez Castanada,Craighead County Sheriff's Office,37,Male,Unknown,['POSSESSION OF FIREARM BY CERTAIN PERSONS']
+MELISSA SUE JONES,Pope County Sheriff's Office,42,Female,White,"['FAILURE TO APPEARREVOCATION HEARING', 'FAIL TO APPEAR', 'FAIL TO APPEAR']"
+KENNETH JONES,Cross County Sheriff's Office,50,Male,Black,['HOLD FOR COURT']
+WILLIAM TAYLOR JONES,Pulaski County Sheriff's Office,31,Male,White,"['CRIMINAL TRESPASS', 'VIOLATION OF NO CONTACT ORDER']"
+TOSHA RENEE JONES,Pulaski County Sheriff's Office,46,Female,Black,['BATTERY - 1ST DEGREE']
+TORI GAIL JORDAN,Pope County Sheriff's Office,33,Female,White,['COURT ORDERED COMMITMENT']
+WILLIAM RUSSELL JONES,Pope County Sheriff's Office,46,Male,White,"['POSSESS DRUG PARAPHERNALIA METH COCAINE', 'PAROLE VIOLATION']"
+NOAH D JONES,Faulkner County Sheriff's Office,23,Male,Black,['FCSO SENTENCED TO FCSO THIS DATE']
+CHRISTOPHER MICHAEL JONES,Garland County Sheriff's Department,48,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+MONICA JONSSON,Benton County Sheriff's Office,45,Female,White,"['DOMESTIC BATTERING - 3RD DEG (CLASS A MISDEMEANOR)', 'DOMESTIC BATTERING - 3RD DEG (CLASS A MISDEMEANOR)']"
+DYLAN MICHAEL JOHNSON,Howard County Sheriff's Office,23,Male,White,"['PAROLE VIOLATION', 'HOLD FOR ANOTHER JURISDICTION']"
+Jessica Leigh Jones,Craighead County Sheriff's Office,35,Female,White,['Failure to Appear (Misd.)']
+Stephen Allen Jones,Craighead County Sheriff's Office,43,Male,White,['Failure to Appear (Misd.)']
+EVERETT A'JAHN JONES,Osceola Police Department,29,Male,Black,"['DRIVING ON SUSPENDEDREVOKED LICENSE M', 'ACT 474OPER VEH WO LIAB INS 2ND+', 'EXPIRED VEH LIC M UCR 90Z', 'EXPIRED VEH LIC M UCR 90Z', 'CONTEMPT OF COURT TIME PAY ORDER', 'DRIVING ON SUSPENDEDREVOKED LICENSE M']"
+WAVERLY R JONES,Pulaski County Sheriff's Office,35,Male,Black,"['FLIGHT-ESCAPE (FLEEING ON FOOT)', 'RESISTING ARREST / USES FORCE', 'THEFT OF PROPERTY LE $1,000']"
+Joshua Wayne Jones,Sebastian County Sheriff's Department,33,Male,White,['Battery in the Second Degree - Health Professional*']
+Malachi Lamont Jones,Craighead County Sheriff's Office,19,Male,Black,['DOMESTIC BATTERING IN THE 3RD DEGREE WITH THE PURPOSE OF CAUSING INJURY THEY CAUSE INJRY']
+JACK ISAAC JOHNSON JR,Crawford County Sheriff’s Department,62,Male,White,"['DOMESTIC BATTERING IN THE THIRD DEGREE', 'PUBLIC INTOXICATION - DRINKING IN PUBLIC']"
+ROGER ANTHONY JOHNSON,Pulaski County Sheriff's Office,42,Male,Black,['MISDEMEANOR COMMITMENT TO PCRDF']
+CASEY NEAL JONES,Garland County Sheriff's Department,33,Male,White,['VIOLATION OF OMNIBUS DWI ACT']
+CHRISTOPHER D JOHNSON,Lonoke County Sheriff's Office,50,Male,White,['FAIL TO APPEAR ON FELONY FTA']
+ROBYN LEE JOHNSON,Sebastian County Sheriff's Department,40,Female,White,"['Failure to Appear - Class C Felony*', 'Contempt-willful disobedience (Failure to Pay Fine)*']"
+BRANDON MORGAN JONES,Garland County Sheriff's Department,36,Male,White,"['PAROLE HOLD', 'POSSESSION CONTROLLED SUBSTANCE', 'FAILURE TO APPEAR', 'OBSTRUCTING GOVERNMENTAL OPERATIONS']"
+AUSTIN RHYAN JORDAN,Faulkner County Sheriff's Office,23,Male,White,['PROB VIOLATION OF PROBATION']
+Autumn Jones,Crittenden County Sheriff's Office,23,Female,Black,['THEFT OF PROPERTY']
+DAVID DEAN JONES,Marion County Sheriff's Office,48,Male,White,['HOLD FOR DOC']
+Jason Robert Jones,Boone County Sheriff's Office,45,Male,White,[]
+MICHAEL JOBE,Mississippi County Sheriff's Office,45,Male,White,['FAILURE TO APPEAR 2']
+ERIC MARQUIS JOHNSTON,Pulaski County Sheriff's Office,48,Male,Black,['DOMESTIC BATTERING - 3RD DEG']
+AHMAD RASHAD JOSEPH,Sebastian County Sheriff's Department,43,Male,Black,"['Failure to Appear - Class C Felony*', 'Failure to Appear - Class C Felony*', 'Absconding *', 'Parole Violation*']"
+RICKIE DELANE JOHNSON,Garland County Sheriff's Department,65,Male,White,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+WHITNEY LAUREN STAPP,Garland County Sheriff's Department,34,Female,White,['FAILURE TO APPEAR']
+DEVIN WAYNE JOHNSON,Baxter County Sheriff's Office,30,Male,White,['FAILURE TO APPEAR']
+MARK PACK,Benton County Sheriff's Office,46,Male,White,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'POSS CONT SUBS SCH 4,5 LT 28G', 'FLEEING', 'BREAKING OR ENTERING', 'THEFT BY RECEIVING', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'POSS DRUG PARAPHERNALIA PDP M', 'POSS DRUG PARAPHERNALIA PDP M', 'FAIL TO APPEAR', 'CONTEMPT OF COURT FOR FAILURE TO PAY FINES FTP', 'THEFT BY RECEIVING', 'FAIL TO APPEAR', 'REVOCATION OF PROBATION/PAROLE']"
+CHRISTOPHER TY JAMES,Saline County Sheriff's Office,23,Male,White,"['FLEEING (ON FOOT) - MISDEMEANOR', 'UNAUTHORIZED USE OF A VEHICLE - MISDEMEANOR', 'RECKLESS DRIVING - CLASS B - MISDEMEANOR', ""NO DRIVER'S LICENSE - CLASS U - MISDEMEANOR"", 'CRIMINAL IMPERSONATION IN THE FIRST DEGREE - FELONY', 'CRIMINAL TRESPASS - MISDEMEANOR', 'OBSTRUCTING GOVERNMENTAL OPERATIONS - MISDEMEANOR', 'UNATTENDED VEHICLE WITH MOTOR RUNNING', 'FAILURE TO APPEAR (FOR FELONY OFFENSE) - FELONY', 'THEFT OF PROPERTY (VALUE $2500 OR MORE) - FELONY', 'CRIMINAL MISCHIEF IN THE SECOND DEGREE ($1000 BUT &lt;$2,500) - MISDEMEANOR', 'CRIMINAL MISCHIEF IN THE SECOND DEGREE ($2500 OR MORE) - FELONY', 'CRIMINAL MISCHIEF IN THE SECOND DEGREE ($2500 OR MORE) - FELONY', 'CRIMINAL MISCHIEF IN THE FIRST DEGREE ($500.00 OR MORE) - FELONY', 'INDECENT EXPOSURE (SUBSEQUENT TO 2003 AMENDMENT) - MISDEMEANOR', 'UNAUTHORIZED USE PROPERTY TO FACILITATE CRIME - FELONY', 'UNAUTHORIZED USE PROPERTY TO FACILITATE CRIME - FELONY']"
+ERICA R WESLEY,Pulaski County Sheriff's Office,39,Female,Black,[]
+SUMMER NICOLE FOSTER,Greene County Sheriff's Office,32,Female,White,"['NONPAYMENT OF FINES', 'POSSESSION OF DRUG PARAPHERNALIA (F)']"
+MARVIN JONES JR,Ashley County Sheriff's Office,37,Male,Black,"['SIMULTANEOUS POSSESSION OF DRUGS AND FIREARMS', 'POSSESSION OF FIREARMS BY CERTAIN PERSONS', 'THEFT BY RECEIVING']"
+JERRY W JOYNER 3RD,Pulaski County Sheriff's Office,26,Male,Black,[]
+KAMEL DAMOROW YANCY,Pulaski County Sheriff's Office,44,Male,Black,"['FAIL TO APPEAR ON CLASS C MISDEMEANOR (FTA)', 'MISDEMEANOR COMMITMENT TO PCRDF']"
+AMY ELIZABETH BUNT,Garland County Sheriff's Department,46,Female,White,"['FAILURE TO APPEAR', 'CRIMINAL TRESPASS', 'BOND SURRENDER']"
+MICHAEL ROSHONE SCOTT JR,Pulaski County Sheriff's Office,22,Male,Black,"['2ND DEG ASSAULT FAMILY OR HOUSEHOLD MEMBER', 'AGGRAVATED RESIDENTIAL BURGLARY', 'CRIMINAL MISCHIEF 1ST DEGREE- PURPOSELY DAMAGES LT $1,000', 'POSS CONT SUB SCH 6, LT 4 OZ', 'TERRORISTIC THREATENING - 2ND DEGREE']"
+JORGE CARRANZA-JUAREZ,Benton County Sheriff's Office,26,Male,Black,"['POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'POSS CONT SUBS SCH 6, LT 4OZ', 'POSSESS DRUG PARAPHERNALIA METH COCAINE PDP F', 'POSSESSION OF OPEN CONTAINER CONTAINING ALCOHOL IN A MOTOR VEHICLE', 'POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'REVOCATION OF PROBATION/PAROLE', 'REVOCATION OF PROBATION/PAROLE']"
+ABNER DALE JOHNSON,Carroll County Sheriff's Office,41,Male,White,"['FAILURE TO APPEARMISD', 'HOLD FOR OTHER AGENCY', 'COURT COMMITMENT', 'FAILURE TO APPEAR FEL', 'FAILURE TO APPEARMISD']"
+CHARLES ALLEN HARVEY,Garland County Sheriff's Department,57,Male,White,"['POSSESSION OF METHAMPHETAMINE OR COCAINE', 'POSSESSION OF DRUG PARAPHERNALIA', 'PAROLE HOLD']"
+DEMARK JORDAN LEE,Pulaski County Sheriff's Office,37,Male,Black,"['CAPITAL MURDER', 'CRIMINAL ATTEMPT', 'POSSESSION OF FIREARM BY CERTAIN PERSONS']"
+MICHAEL DEWAYNE BROWN,Garland County Sheriff's Department,23,Male,Black,"['FAILURE TO APPEAR', 'FAILURE TO APPEAR']"
+JOSHUA LUKE JUNKINS,Pulaski County Sheriff's Office,43,Male,White,"['CRIMINAL TRESPASS', 'POSS CONT SUBS SCH 1,2 METH/COCA LESS THAN 2G', 'POSSESS DRUG PARAPHERNALIA METH COCAINE']"
+DANIEL JUAREZ,Carroll County Sheriff's Office,55,Male,White,"['FAILURE TO APPEARMISD', 'FAILURE TO APPEARMISD']"
+XAVIAN KARRIEM,Benton County Sheriff's Office,21,Male,Unknown,['DRIVING VEHICLE WITH LICENSE OR REGISTRATION SUSPENDED OR REVOKED']
+AMANDA KAY KEMP,Crawford County Sheriff’s Department,40,Female,White,[]DANIEL TODD MATHIS, Union County Sheriff's Office ,46,Male,White

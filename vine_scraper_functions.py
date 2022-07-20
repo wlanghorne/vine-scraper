@@ -266,7 +266,7 @@ def scrape_page(url, driver_path, output_path, ignore_names):
 
 		with open(output_path, 'a') as f: 
 			writer = csv.writer(f)
-			for name in data_dict.keys():
+			for name in names:
 				writer.writerow([name] + data_dict[name])
 
 			f.close()
