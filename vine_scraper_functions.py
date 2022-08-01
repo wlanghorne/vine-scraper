@@ -75,7 +75,7 @@ def load (driver):
 	return True
 
 
-def get_persons(url, driver_path, output_path):
+def get_persons(url, driver_path):
 	driver = load_page(url, driver_path)
 
 	# Load all persons on the page
@@ -255,18 +255,22 @@ def get_charges(url, driver_path, names, load_num, data_dict):
 
 def scrape_page(url, driver_path, output_path, ignore_names):
 
-	data_dict = get_persons(url, driver_path, output_path)
+	data_dict = get_persons(url, driver_path)
 
 	# if there are people being held by local law enforcement in jails, get their charges 
+
 	if data_dict: 
 		names = set(data_dict.keys())
-		names = list(names - set(ignore_names))
+		save_names = list(names - set(ignore_names))
 				
-		data_dict = get_charges(url, driver_path, names, 0, data_dict)
+		data_dict = get_charges(url, driver_path, save_names, 0, data_dict)
+
+		names = set(data_dict.keys())
+		save_names = list(names - set(ignore_names))
 
 		with open(output_path, 'a') as f: 
 			writer = csv.writer(f)
-			for name in names:
+			for name in save_names:
 				writer.writerow([name] + data_dict[name])
 
 			f.close()
